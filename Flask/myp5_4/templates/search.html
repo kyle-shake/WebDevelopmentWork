@@ -1,0 +1,19 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Search</h1>
+<form action="" method="post" name="search">
+      {{ form.hidden_tag() }}
+      <p>
+          Select your search criteria below:<br>
+          {{ form.raceToSearch(size=1) }} <br>
+          {{ form.whatToMatch(size=1) }} <br>
+          {{ form.matchValue(size=5) }}  <br>
+          {{ form.statToFind(size=1) }}  <br>
+          {{ form.maxOrmin(size=1) }}    <br>
+      </p>
+      <p><input type="submit" value="Search"></p>
+</form>
+{% endblock %}

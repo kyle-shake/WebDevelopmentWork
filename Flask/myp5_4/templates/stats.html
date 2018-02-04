@@ -1,0 +1,29 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>2016 {{name}} Results</h1>
+<br>
+<br>
+<table align="left", border=1>
+  <tr>
+    <th>Place</th>
+    <th>Name</th>
+    <th>Gender</th>
+    <th>Hometown</th>
+    <th>Age</th>
+  </tr>
+  {% for i in result %} 
+  <tr>
+    <td>{{i['Place']}}</td>
+    <td>{{i['Name']}}</td>
+    <td>{{i['Gender']}}</td>
+    <td>{{i['Hometown']}}</td>
+    <td>{{i['Age']}}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+
+

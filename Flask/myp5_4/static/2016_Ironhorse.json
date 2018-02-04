@@ -1,0 +1,4826 @@
+{
+	"comments": [
+		{ "comment": "half-marathon" },
+		{ "comment": "rolling hills" },
+		{ "comment": "Midway, KY" }
+	],
+	"runners": [
+		{ "Place": "1", "Name": "Zack Beavin", "Gender": "M",
+		  "Hometown": "Prospect", "FinishTime": "0:57:17", 
+		  "Pace": "5:37", "Age": "22", "AgePlace": "1", 
+		  "AgeCategory": "M Open"
+		},
+		{ "Place": "2", "Name": "Glen Mays", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:01:45", 
+		  "Pace": "6:03", "Age": "46", "AgePlace": "2", 
+		  "AgeCategory": "M Open"
+		},
+		{ "Place": "3", "Name": "Garrett Bowers", "Gender": "M",
+		  "Hometown": "Lawrenceburg", "FinishTime": "1:03:11", 
+		  "Pace": "6:12", "Age": "42", "AgePlace": "3", 
+		  "AgeCategory": "M Open"
+		},
+		{ "Place": "4", "Name": "Jarred Brewster", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:02:51", 
+		  "Pace": "6:10", "Age": "25", "AgePlace": "1", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "5", "Name": "Lowery Stallings", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:03:43", 
+		  "Pace": "6:15", "Age": "51", "AgePlace": "1", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "6", "Name": "Matt Dettloff", "Gender": "M",
+		  "Hometown": "Palatine", "FinishTime": "1:03:40", 
+		  "Pace": "6:15", "Age": "28", "AgePlace": "2", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "7", "Name": "Tom Zuchowski", "Gender": "M",
+		  "Hometown": "Newark", "FinishTime": "1:04:30", 
+		  "Pace": "6:19", "Age": "30", "AgePlace": "1", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "8", "Name": "Tom Butler", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:04:49", 
+		  "Pace": "6:21", "Age": "43", "AgePlace": "1", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "9", "Name": "Todd Powell", "Gender": "M",
+		  "Hometown": "Taylorsville", "FinishTime": "1:06:46", 
+		  "Pace": "6:33", "Age": "41", "AgePlace": "2", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "10", "Name": "Tyler Zweifel", "Gender": "M",
+		  "Hometown": "Wilmore", "FinishTime": "1:05:44", 
+		  "Pace": "6:27", "Age": "27", "AgePlace": "3", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "11", "Name": "John McAtee", "Gender": "M",
+		  "Hometown": "Brentwood", "FinishTime": "1:07:42", 
+		  "Pace": "6:38", "Age": "43", "AgePlace": "3", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "12", "Name": "Travis Albrecht", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:08:39", 
+		  "Pace": "6:44", "Age": "28", "AgePlace": "4", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "13", "Name": "Robert Tillyer", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:08:37", 
+		  "Pace": "6:44", "Age": "39", "AgePlace": "1", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "14", "Name": "Daniel Joseph", "Gender": "M",
+		  "Hometown": "Imperial", "FinishTime": "1:08:37", 
+		  "Pace": "6:44", "Age": "27", "AgePlace": "5", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "15", "Name": "Nathaniel Grayson", "Gender": "M",
+		  "Hometown": "Maysville", "FinishTime": "1:09:58", 
+		  "Pace": "6:52", "Age": "23", "AgePlace": "1", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "16", "Name": "Michael Kokta", "Gender": "M",
+		  "Hometown": "Cedarburg", "FinishTime": "1:09:59", 
+		  "Pace": "6:52", "Age": "35", "AgePlace": "2", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "17", "Name": "Riley Nesbit", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:10:27", 
+		  "Pace": "6:54", "Age": "28", "AgePlace": "6", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "18", "Name": "John Watercutter", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:10:43", 
+		  "Pace": "6:56", "Age": "51", "AgePlace": "2", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "19", "Name": "Herve Antoine", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:11:06", 
+		  "Pace": "6:58", "Age": "46", "AgePlace": "1", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "20", "Name": "Brian Randolph", "Gender": "M",
+		  "Hometown": "Florence", "FinishTime": "1:11:32", 
+		  "Pace": "7:01", "Age": "36", "AgePlace": "3", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "21", "Name": "Shawn Diehl", "Gender": "M",
+		  "Hometown": "Wellington", "FinishTime": "1:11:17", 
+		  "Pace": "6:59", "Age": "39", "AgePlace": "4", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "22", "Name": "David Blanchett", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:11:37", 
+		  "Pace": "7:01", "Age": "35", "AgePlace": "5", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "23", "Name": "Martin Geithmann", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:11:30", 
+		  "Pace": "7:01", "Age": "43", "AgePlace": "4", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "24", "Name": "Fred Jones", "Gender": "M",
+		  "Hometown": "Scottown", "FinishTime": "1:11:57", 
+		  "Pace": "7:03", "Age": "61", "AgePlace": "1", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "25", "Name": "Kelsey Drew", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:12:04", 
+		  "Pace": "7:04", "Age": "22", "AgePlace": "1", 
+		  "AgeCategory": "F Open"
+		},
+		{ "Place": "26", "Name": "Manivannan Vangalur", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:14:30", 
+		  "Pace": "7:18", "Age": "41", "AgePlace": "5", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "27", "Name": "DENISE PFEFFERLE", "Gender": "F",
+		  "Hometown": "COLUMBUS", "FinishTime": "1:14:32", 
+		  "Pace": "7:18", "Age": "32", "AgePlace": "2", 
+		  "AgeCategory": "F Open"
+		},
+		{ "Place": "28", "Name": "Gina Naehr", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:14:23", 
+		  "Pace": "7:18", "Age": "41", "AgePlace": "3", 
+		  "AgeCategory": "F Open"
+		},
+		{ "Place": "29", "Name": "Scott Burke", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "", 
+		  "Pace": "", "Age": "55", "AgePlace": "1", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "30", "Name": "Matthew Ellis", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:14:05", 
+		  "Pace": "7:16", "Age": "38", "AgePlace": "6", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "31", "Name": "Kayla Leslie", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "", 
+		  "Pace": "", "Age": "26", "AgePlace": "1", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "32", "Name": "Brian Delisle", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:15:09", 
+		  "Pace": "7:22", "Age": "42", "AgePlace": "6", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "33", "Name": "Robert Herrick", "Gender": "M",
+		  "Hometown": "Prestonsburg", "FinishTime": "1:13:54", 
+		  "Pace": "7:15", "Age": "59", "AgePlace": "2", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "34", "Name": "Sean Heineman", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:15:01", 
+		  "Pace": "7:21", "Age": "36", "AgePlace": "7", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "35", "Name": "Carol Gensheimer", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:14:45", 
+		  "Pace": "7:20", "Age": "51", "AgePlace": "1", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "36", "Name": "Colton Ratliff", "Gender": "M",
+		  "Hometown": "Jenkins", "FinishTime": "1:13:17", 
+		  "Pace": "7:11", "Age": "16", "AgePlace": "1", 
+		  "AgeCategory": "M 14-19"
+		},
+		{ "Place": "37", "Name": "Colleen Cornelius", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:14:55", 
+		  "Pace": "7:21", "Age": "38", "AgePlace": "1", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "38", "Name": "Steven Nolan", "Gender": "M",
+		  "Hometown": "Glen Allen", "FinishTime": "1:15:43", 
+		  "Pace": "7:25", "Age": "31", "AgePlace": "2", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "39", "Name": "John Scheib", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:15:00", 
+		  "Pace": "7:21", "Age": "48", "AgePlace": "2", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "40", "Name": "Jason Thomas", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:15:28", 
+		  "Pace": "7:24", "Age": "36", "AgePlace": "8", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "41", "Name": "Roddie Leath", "Gender": "M",
+		  "Hometown": "Frakes", "FinishTime": "1:16:01", 
+		  "Pace": "7:27", "Age": "49", "AgePlace": "3", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "42", "Name": "Eric Endean", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:16:25", 
+		  "Pace": "7:30", "Age": "62", "AgePlace": "2", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "43", "Name": "Mike Sullivan", "Gender": "M",
+		  "Hometown": "Simpsonville", "FinishTime": "1:16:50", 
+		  "Pace": "7:32", "Age": "59", "AgePlace": "3", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "44", "Name": "Steve Sharp", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:15:47", 
+		  "Pace": "7:26", "Age": "38", "AgePlace": "9", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "45", "Name": "Mike Kennedy", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:16:45", 
+		  "Pace": "7:31", "Age": "62", "AgePlace": "3", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "46", "Name": "Benjamin Cichanowicz", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:16:47", 
+		  "Pace": "7:32", "Age": "40", "AgePlace": "7", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "47", "Name": "Sarah Dunleavy", "Gender": "F",
+		  "Hometown": "Pittsburgh", "FinishTime": "1:17:27", 
+		  "Pace": "7:36", "Age": "27", "AgePlace": "2", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "48", "Name": "Christian Paumi", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:17:16", 
+		  "Pace": "7:35", "Age": "40", "AgePlace": "8", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "49", "Name": "Erin Rock", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:16:29", 
+		  "Pace": "7:30", "Age": "38", "AgePlace": "2", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "50", "Name": "Jason Epperson", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:16:53", 
+		  "Pace": "7:32", "Age": "40", "AgePlace": "9", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "51", "Name": "Robert Henthorne", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:18:14", 
+		  "Pace": "7:40", "Age": "59", "AgePlace": "4", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "52", "Name": "Paul Coakley", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:17:18", 
+		  "Pace": "7:35", "Age": "52", "AgePlace": "3", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "53", "Name": "Todd Saladin", "Gender": "M",
+		  "Hometown": "Hebron", "FinishTime": "1:19:00", 
+		  "Pace": "7:45", "Age": "46", "AgePlace": "4", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "54", "Name": "Jordan Phemister", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:19:26", 
+		  "Pace": "7:47", "Age": "38", "AgePlace": "3", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "55", "Name": "Logan Pool", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:17:52", 
+		  "Pace": "7:38", "Age": "28", "AgePlace": "7", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "56", "Name": "Alfredo C Gomez", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:17:43", 
+		  "Pace": "7:37", "Age": "46", "AgePlace": "5", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "57", "Name": "Chad Risko", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:18:03", 
+		  "Pace": "7:39", "Age": "41", "AgePlace": "10", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "58", "Name": "Meredith Ramage", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:19:24", 
+		  "Pace": "7:47", "Age": "35", "AgePlace": "4", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "59", "Name": "Jody Shoup", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:19:20", 
+		  "Pace": "7:47", "Age": "40", "AgePlace": "1", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "60", "Name": "Julie Thornhill", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:19:29", 
+		  "Pace": "7:48", "Age": "49", "AgePlace": "1", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "61", "Name": "Josh Blaylock", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:19:20", 
+		  "Pace": "7:47", "Age": "34", "AgePlace": "3", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "62", "Name": "Christy Hoffman", "Gender": "F",
+		  "Hometown": "Newport", "FinishTime": "", 
+		  "Pace": "", "Age": "30", "AgePlace": "1", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "63", "Name": "Amanda Sciretta", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:19:39", 
+		  "Pace": "7:49", "Age": "25", "AgePlace": "3", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "64", "Name": "Erin Hagan", "Gender": "F",
+		  "Hometown": "Hillsboro", "FinishTime": "1:19:14", 
+		  "Pace": "7:46", "Age": "34", "AgePlace": "2", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "65", "Name": "Dmitry Slavin", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:18:40", 
+		  "Pace": "7:43", "Age": "29", "AgePlace": "8", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "66", "Name": "Gilman Peterson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:19:44", 
+		  "Pace": "7:49", "Age": "40", "AgePlace": "11", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "67", "Name": "Paul Myers", "Gender": "M",
+		  "Hometown": "lexington", "FinishTime": "1:19:28", 
+		  "Pace": "7:47", "Age": "36", "AgePlace": "10", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "68", "Name": "Dewayne Holder", "Gender": "M",
+		  "Hometown": "Jamestown", "FinishTime": "1:20:00", 
+		  "Pace": "7:51", "Age": "48", "AgePlace": "6", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "69", "Name": "Jon Terry", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:17:33", 
+		  "Pace": "7:36", "Age": "35", "AgePlace": "11", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "70", "Name": "Lauren Taylor", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:19:45", 
+		  "Pace": "7:49", "Age": "24", "AgePlace": "1", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "71", "Name": "John York", "Gender": "M",
+		  "Hometown": "Bronston", "FinishTime": "1:19:24", 
+		  "Pace": "7:47", "Age": "39", "AgePlace": "12", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "72", "Name": "Perry Papka", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:18:52", 
+		  "Pace": "7:44", "Age": "41", "AgePlace": "12", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "73", "Name": "Shannon Million", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:20:37", 
+		  "Pace": "7:54", "Age": "34", "AgePlace": "3", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "74", "Name": "Kenneth Graham", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:19:20", 
+		  "Pace": "7:47", "Age": "33", "AgePlace": "4", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "75", "Name": "Keith Stillwell", "Gender": "M",
+		  "Hometown": "Danville", "FinishTime": "1:19:48", 
+		  "Pace": "7:49", "Age": "54", "AgePlace": "4", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "76", "Name": "Tommy Blair", "Gender": "M",
+		  "Hometown": "Ekron", "FinishTime": "1:18:42", 
+		  "Pace": "7:43", "Age": "34", "AgePlace": "5", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "77", "Name": "Louis Hill Jr", "Gender": "M",
+		  "Hometown": "Walton", "FinishTime": "1:19:56", 
+		  "Pace": "7:50", "Age": "38", "AgePlace": "13", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "78", "Name": "Kurt Zamora", "Gender": "M",
+		  "Hometown": "Crestwood", "FinishTime": "1:19:30", 
+		  "Pace": "7:48", "Age": "47", "AgePlace": "7", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "79", "Name": "Paul Collins", "Gender": "M",
+		  "Hometown": "Bowling Green", "FinishTime": "1:20:32", 
+		  "Pace": "7:54", "Age": "33", "AgePlace": "6", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "80", "Name": "Nathan Williams", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:20:10", 
+		  "Pace": "7:52", "Age": "23", "AgePlace": "2", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "81", "Name": "Shawn Smith", "Gender": "M",
+		  "Hometown": "Boonville", "FinishTime": "1:21:04", 
+		  "Pace": "7:57", "Age": "47", "AgePlace": "8", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "82", "Name": "Dean Langdon", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:20:16", 
+		  "Pace": "7:52", "Age": "58", "AgePlace": "5", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "83", "Name": "Jesse Frost", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:19:29", 
+		  "Pace": "7:48", "Age": "40", "AgePlace": "13", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "84", "Name": "Franklin Watson", "Gender": "M",
+		  "Hometown": "Midway", "FinishTime": "1:18:40", 
+		  "Pace": "7:43", "Age": "21", "AgePlace": "3", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "85", "Name": "G.A. Smith", "Gender": "M",
+		  "Hometown": "Nicholasville", "FinishTime": "1:19:55", 
+		  "Pace": "7:50", "Age": "52", "AgePlace": "5", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "86", "Name": "Kayla Dudick", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:20:31", 
+		  "Pace": "7:54", "Age": "21", "AgePlace": "2", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "87", "Name": "Karthikeyan Sadasivam", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:19:23", 
+		  "Pace": "7:47", "Age": "42", "AgePlace": "14", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "88", "Name": "Steve Wilson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:20:44", 
+		  "Pace": "7:55", "Age": "58", "AgePlace": "6", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "89", "Name": "Elizabeth Thomas", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:20:37", 
+		  "Pace": "7:54", "Age": "42", "AgePlace": "2", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "90", "Name": "Heidi Olson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:21:11", 
+		  "Pace": "7:58", "Age": "23", "AgePlace": "3", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "91", "Name": "Cyndi Devers", "Gender": "F",
+		  "Hometown": "Anderson", "FinishTime": "1:22:57", 
+		  "Pace": "8:08", "Age": "41", "AgePlace": "3", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "92", "Name": "Robert Ball", "Gender": "M",
+		  "Hometown": "Crestwood", "FinishTime": "1:21:39", 
+		  "Pace": "8:00", "Age": "39", "AgePlace": "14", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "93", "Name": "Matt Shane", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:21:59", 
+		  "Pace": "8:02", "Age": "42", "AgePlace": "15", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "94", "Name": "Phillip Prokes", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:21:01", 
+		  "Pace": "7:57", "Age": "29", "AgePlace": "9", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "95", "Name": "Jason Leach", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:22:43", 
+		  "Pace": "8:07", "Age": "45", "AgePlace": "9", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "96", "Name": "Kevin Middleton", "Gender": "M",
+		  "Hometown": "Morehead", "FinishTime": "1:20:47", 
+		  "Pace": "7:55", "Age": "44", "AgePlace": "16", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "97", "Name": "Cassandra Ginn", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:20:50", 
+		  "Pace": "7:56", "Age": "29", "AgePlace": "4", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "98", "Name": "Joe Fair", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:21:55", 
+		  "Pace": "8:02", "Age": "35", "AgePlace": "15", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "99", "Name": "Aaron Stark", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:20:47", 
+		  "Pace": "7:55", "Age": "39", "AgePlace": "16", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "100", "Name": "Sammy Treesh", "Gender": "M",
+		  "Hometown": "Nicholasville", "FinishTime": "1:22:02", 
+		  "Pace": "8:03", "Age": "30", "AgePlace": "7", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "101", "Name": "Brock Triplett", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:20:10", 
+		  "Pace": "7:52", "Age": "37", "AgePlace": "17", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "102", "Name": "Javier De La Fuente", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:22:01", 
+		  "Pace": "8:02", "Age": "29", "AgePlace": "10", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "103", "Name": "Maggie Goodman", "Gender": "F",
+		  "Hometown": "Harmony", "FinishTime": "1:20:55", 
+		  "Pace": "7:56", "Age": "20", "AgePlace": "4", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "104", "Name": "Daniel Hyer", "Gender": "M",
+		  "Hometown": "Wilmore", "FinishTime": "1:21:25", 
+		  "Pace": "7:59", "Age": "26", "AgePlace": "11", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "105", "Name": "Meg Sutton", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:22:07", 
+		  "Pace": "8:03", "Age": "29", "AgePlace": "5", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "106", "Name": "Bruno Reynolds", "Gender": "M",
+		  "Hometown": "Greenwood", "FinishTime": "1:20:12", 
+		  "Pace": "7:52", "Age": "65", "AgePlace": "1", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "107", "Name": "Sarah Lim Berkowitz", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:22:34", 
+		  "Pace": "8:06", "Age": "32", "AgePlace": "4", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "108", "Name": "Gloria Pulley", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:22:23", 
+		  "Pace": "8:05", "Age": "17", "AgePlace": "1", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "109", "Name": "James Chapman", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:22:09", 
+		  "Pace": "8:03", "Age": "27", "AgePlace": "12", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "110", "Name": "Craig Stevenson", "Gender": "M",
+		  "Hometown": "Somerset", "FinishTime": "1:22:33", 
+		  "Pace": "8:06", "Age": "46", "AgePlace": "10", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "111", "Name": "Karin Sturgeon", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:22:17", 
+		  "Pace": "8:04", "Age": "42", "AgePlace": "4", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "112", "Name": "TOMMY ADAMS", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:20:21", 
+		  "Pace": "7:53", "Age": "33", "AgePlace": "8", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "113", "Name": "Melanie Bloemer", "Gender": "F",
+		  "Hometown": "LouisvilleLouisville", "FinishTime": "1:22:17", 
+		  "Pace": "8:04", "Age": "36", "AgePlace": "5", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "114", "Name": "Kristy Bruins", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:22:54", 
+		  "Pace": "8:08", "Age": "41", "AgePlace": "5", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "115", "Name": "Lauren Clark", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:23:37", 
+		  "Pace": "8:12", "Age": "36", "AgePlace": "6", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "116", "Name": "Dawin Wingate", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:21:41", 
+		  "Pace": "8:01", "Age": "44", "AgePlace": "17", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "117", "Name": "Hugh Davis", "Gender": "M",
+		  "Hometown": "Hawesville", "FinishTime": "1:22:54", 
+		  "Pace": "8:08", "Age": "52", "AgePlace": "6", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "118", "Name": "Keith Clemons", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:23:03", 
+		  "Pace": "8:09", "Age": "40", "AgePlace": "18", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "119", "Name": "Courtney Hart", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:24:48", 
+		  "Pace": "8:19", "Age": "28", "AgePlace": "6", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "120", "Name": "James Pittman", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:20:56", 
+		  "Pace": "7:56", "Age": "38", "AgePlace": "18", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "121", "Name": "Patrick Yorba", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:32", 
+		  "Pace": "8:17", "Age": "45", "AgePlace": "11", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "122", "Name": "Mary Beckerson", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:23:07", 
+		  "Pace": "8:09", "Age": "24", "AgePlace": "5", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "123", "Name": "Steven Newton", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:13", 
+		  "Pace": "8:15", "Age": "26", "AgePlace": "13", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "124", "Name": "Allen Browning", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:23:36", 
+		  "Pace": "8:12", "Age": "28", "AgePlace": "14", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "125", "Name": "Carissa Hentosz", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:23:18", 
+		  "Pace": "8:10", "Age": "20", "AgePlace": "6", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "126", "Name": "Rhonda Schnieder", "Gender": "F",
+		  "Hometown": "Campbellsville", "FinishTime": "1:23:42", 
+		  "Pace": "8:12", "Age": "37", "AgePlace": "7", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "127", "Name": "Joel Bradley", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:30", 
+		  "Pace": "8:17", "Age": "26", "AgePlace": "15", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "128", "Name": "Grant Wilson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:51", 
+		  "Pace": "8:19", "Age": "52", "AgePlace": "7", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "129", "Name": "Jena Ferguson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:25:43", 
+		  "Pace": "8:24", "Age": "27", "AgePlace": "7", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "130", "Name": "Tyler Dixon", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:23:55", 
+		  "Pace": "8:14", "Age": "37", "AgePlace": "19", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "131", "Name": "Jeff Thompson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:31", 
+		  "Pace": "8:23", "Age": "27", "AgePlace": "16", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "132", "Name": "Sheryl Downs", "Gender": "M",
+		  "Hometown": "Perryville", "FinishTime": "1:21:02", 
+		  "Pace": "7:57", "Age": "50", "AgePlace": "8", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "133", "Name": "Harvey Thompson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:23:49", 
+		  "Pace": "8:13", "Age": "52", "AgePlace": "9", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "134", "Name": "John Farris", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:07", 
+		  "Pace": "8:21", "Age": "43", "AgePlace": "19", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "135", "Name": "Tarp Ledford", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:21:59", 
+		  "Pace": "8:02", "Age": "38", "AgePlace": "20", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "136", "Name": "Chad Adams", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:23:03", 
+		  "Pace": "8:09", "Age": "34", "AgePlace": "9", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "137", "Name": "Jonathan Laurel", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:38", 
+		  "Pace": "8:18", "Age": "27", "AgePlace": "17", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "138", "Name": "Karen Turner", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:24:53", 
+		  "Pace": "8:19", "Age": "32", "AgePlace": "5", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "139", "Name": "Saori Hanaki", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:24:08", 
+		  "Pace": "8:15", "Age": "42", "AgePlace": "6", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "140", "Name": "Shaheer Burney", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:23:58", 
+		  "Pace": "8:14", "Age": "29", "AgePlace": "18", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "141", "Name": "Daniel Thompson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:12", 
+		  "Pace": "8:21", "Age": "41", "AgePlace": "20", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "142", "Name": "David Florence", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:57", 
+		  "Pace": "8:26", "Age": "48", "AgePlace": "12", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "143", "Name": "Matt Walli", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:09", 
+		  "Pace": "8:21", "Age": "45", "AgePlace": "13", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "144", "Name": "Mark Cummins", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:24:28", 
+		  "Pace": "8:17", "Age": "48", "AgePlace": "14", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "145", "Name": "John Wickre", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:25:23", 
+		  "Pace": "8:22", "Age": "33", "AgePlace": "10", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "146", "Name": "Dwain Kent", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:24:10", 
+		  "Pace": "8:15", "Age": "45", "AgePlace": "15", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "147", "Name": "Andrew Clayton", "Gender": "M",
+		  "Hometown": "Sellersburg", "FinishTime": "1:25:10", 
+		  "Pace": "8:21", "Age": "26", "AgePlace": "19", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "148", "Name": "Lindsey Burris", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:26:24", 
+		  "Pace": "8:28", "Age": "33", "AgePlace": "6", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "149", "Name": "Jesse Dewey", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:43", 
+		  "Pace": "8:24", "Age": "21", "AgePlace": "4", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "150", "Name": "Matt Schumann", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:21", 
+		  "Pace": "8:16", "Age": "26", "AgePlace": "20", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "151", "Name": "Thomas Sauer", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:12", 
+		  "Pace": "8:15", "Age": "40", "AgePlace": "21", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "152", "Name": "Amanda Fenoseff", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:25:19", 
+		  "Pace": "8:22", "Age": "27", "AgePlace": "8", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "153", "Name": "Andrew Terry", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:23:21", 
+		  "Pace": "8:10", "Age": "35", "AgePlace": "21", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "154", "Name": "Matt Reno", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:07", 
+		  "Pace": "8:21", "Age": "35", "AgePlace": "22", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "155", "Name": "John Stewart", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:10", 
+		  "Pace": "8:15", "Age": "52", "AgePlace": "10", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "156", "Name": "Stefan Kiessling", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:35", 
+		  "Pace": "8:18", "Age": "47", "AgePlace": "16", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "157", "Name": "Richard Goranflo", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:25:35", 
+		  "Pace": "8:23", "Age": "69", "AgePlace": "2", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "158", "Name": "Michael Watts", "Gender": "M",
+		  "Hometown": "Jackson", "FinishTime": "1:25:32", 
+		  "Pace": "8:23", "Age": "37", "AgePlace": "23", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "159", "Name": "Jacob Russell", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:23:50", 
+		  "Pace": "8:13", "Age": "37", "AgePlace": "24", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "160", "Name": "Robert Ferguson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:26:23", 
+		  "Pace": "8:28", "Age": "21", "AgePlace": "5", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "161", "Name": "Adam Brown", "Gender": "M",
+		  "Hometown": "Nicholasville", "FinishTime": "1:26:05", 
+		  "Pace": "8:26", "Age": "26", "AgePlace": "21", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "162", "Name": "Glenn Cook", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:26:41", 
+		  "Pace": "8:30", "Age": "42", "AgePlace": "22", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "163", "Name": "Nicholas Boivin", "Gender": "M",
+		  "Hometown": "Jeffersonville", "FinishTime": "1:24:40", 
+		  "Pace": "8:18", "Age": "32", "AgePlace": "11", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "164", "Name": "Joe Olszewski", "Gender": "M",
+		  "Hometown": "Erlanger", "FinishTime": "1:25:28", 
+		  "Pace": "8:23", "Age": "49", "AgePlace": "17", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "165", "Name": "Jeff Walton", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:53", 
+		  "Pace": "8:25", "Age": "56", "AgePlace": "7", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "166", "Name": "Brian Foley", "Gender": "M",
+		  "Hometown": "Brodhead", "FinishTime": "1:24:31", 
+		  "Pace": "8:17", "Age": "39", "AgePlace": "25", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "167", "Name": "Sheri Kyle", "Gender": "F",
+		  "Hometown": "Cincinnati", "FinishTime": "1:26:40", 
+		  "Pace": "8:30", "Age": "49", "AgePlace": "2", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "168", "Name": "Elizabeth Adams", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:26:19", 
+		  "Pace": "8:28", "Age": "31", "AgePlace": "7", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "169", "Name": "Andy Davis", "Gender": "M",
+		  "Hometown": "Shelbyville", "FinishTime": "1:27:38", 
+		  "Pace": "8:36", "Age": "38", "AgePlace": "26", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "170", "Name": "Jonathan Stoops", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:41", 
+		  "Pace": "8:24", "Age": "37", "AgePlace": "27", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "171", "Name": "Phillina Wingate", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:26:29", 
+		  "Pace": "8:29", "Age": "40", "AgePlace": "7", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "172", "Name": "Jerry Smitha", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:27:10", 
+		  "Pace": "8:33", "Age": "45", "AgePlace": "18", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "173", "Name": "James Bowman", "Gender": "M",
+		  "Hometown": "Berea", "FinishTime": "1:26:51", 
+		  "Pace": "8:31", "Age": "66", "AgePlace": "3", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "174", "Name": "William Carpenter", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:24:42", 
+		  "Pace": "8:18", "Age": "24", "AgePlace": "6", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "175", "Name": "Kelsey Baetzel", "Gender": "F",
+		  "Hometown": "Leitchfield", "FinishTime": "1:26:59", 
+		  "Pace": "8:32", "Age": "25", "AgePlace": "9", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "176", "Name": "Mihaela Cornea", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:26:31", 
+		  "Pace": "8:29", "Age": "45", "AgePlace": "3", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "177", "Name": "David Schmitt", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:25:43", 
+		  "Pace": "8:24", "Age": "35", "AgePlace": "28", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "178", "Name": "Dustin Pugel", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:28:29", 
+		  "Pace": "8:41", "Age": "29", "AgePlace": "22", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "179", "Name": "Ashley Hood-Morley", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:26:09", 
+		  "Pace": "8:27", "Age": "32", "AgePlace": "8", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "180", "Name": "Toby Jenkins", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:29:01", 
+		  "Pace": "8:44", "Age": "43", "AgePlace": "23", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "181", "Name": "Katie James", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:28:24", 
+		  "Pace": "8:40", "Age": "25", "AgePlace": "10", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "182", "Name": "Dustin Tuggle", "Gender": "M",
+		  "Hometown": "London", "FinishTime": "1:27:06", 
+		  "Pace": "8:32", "Age": "31", "AgePlace": "12", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "183", "Name": "Kelley Frederick", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:27:10", 
+		  "Pace": "8:33", "Age": "43", "AgePlace": "8", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "184", "Name": "Steve Olson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:26:40", 
+		  "Pace": "8:30", "Age": "65", "AgePlace": "4", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "185", "Name": "Mike Smith", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:27:25", 
+		  "Pace": "8:34", "Age": "35", "AgePlace": "29", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "186", "Name": "Erica Bilotta", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:26:59", 
+		  "Pace": "8:32", "Age": "40", "AgePlace": "9", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "187", "Name": "James Conlon", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:26:06", 
+		  "Pace": "8:26", "Age": "32", "AgePlace": "13", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "188", "Name": "Cory Pryor", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:23:42", 
+		  "Pace": "8:12", "Age": "25", "AgePlace": "23", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "189", "Name": "Elaine Wilhite", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:26:31", 
+		  "Pace": "8:29", "Age": "53", "AgePlace": "2", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "190", "Name": "David Phemister", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:27:49", 
+		  "Pace": "8:37", "Age": "44", "AgePlace": "24", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "191", "Name": "Marisa White", "Gender": "F",
+		  "Hometown": "Morehead", "FinishTime": "1:27:38", 
+		  "Pace": "8:35", "Age": "52", "AgePlace": "3", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "192", "Name": "Donna Campbell", "Gender": "F",
+		  "Hometown": "Prospect", "FinishTime": "1:25:54", 
+		  "Pace": "8:25", "Age": "47", "AgePlace": "4", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "193", "Name": "Angela Stark", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:27:48", 
+		  "Pace": "8:37", "Age": "39", "AgePlace": "8", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "194", "Name": "Meghan Frost", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:27:29", 
+		  "Pace": "8:35", "Age": "37", "AgePlace": "9", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "195", "Name": "Keith Bleier", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:25:45", 
+		  "Pace": "8:24", "Age": "44", "AgePlace": "25", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "196", "Name": "Matthew Juergemeier", "Gender": "M",
+		  "Hometown": "Ava", "FinishTime": "1:27:17", 
+		  "Pace": "8:33", "Age": "27", "AgePlace": "24", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "197", "Name": "Kathrine Sullivan", "Gender": "F",
+		  "Hometown": "Underhill", "FinishTime": "1:27:56", 
+		  "Pace": "8:37", "Age": "41", "AgePlace": "10", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "198", "Name": "Bleik Pickett", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:27:54", 
+		  "Pace": "8:37", "Age": "43", "AgePlace": "26", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "199", "Name": "Shane Quinlan", "Gender": "M",
+		  "Hometown": "louisville", "FinishTime": "1:25:56", 
+		  "Pace": "8:25", "Age": "27", "AgePlace": "25", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "200", "Name": "Alissa Briggs", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:28:39", 
+		  "Pace": "8:41", "Age": "33", "AgePlace": "9", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "201", "Name": "Natalie Stone", "Gender": "F",
+		  "Hometown": "Berea", "FinishTime": "1:27:28", 
+		  "Pace": "8:34", "Age": "39", "AgePlace": "10", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "202", "Name": "Mark Jackson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:27:33", 
+		  "Pace": "8:35", "Age": "48", "AgePlace": "19", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "203", "Name": "John Wilson", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:29:25", 
+		  "Pace": "8:46", "Age": "45", "AgePlace": "20", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "204", "Name": "Rachel Thomas", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:28:08", 
+		  "Pace": "8:38", "Age": "24", "AgePlace": "7", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "205", "Name": "Greg O'Bryan", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:26:35", 
+		  "Pace": "8:29", "Age": "36", "AgePlace": "30", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "206", "Name": "Jeff Toney", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:28:29", 
+		  "Pace": "8:41", "Age": "49", "AgePlace": "21", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "207", "Name": "Jennifer Clark", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:28:46", 
+		  "Pace": "8:42", "Age": "42", "AgePlace": "11", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "208", "Name": "Deirdre Mikolajcik", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:28:53", 
+		  "Pace": "8:43", "Age": "27", "AgePlace": "11", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "209", "Name": "Carmel Lewis", "Gender": "F",
+		  "Hometown": "Anderson", "FinishTime": "1:27:53", 
+		  "Pace": "8:37", "Age": "41", "AgePlace": "12", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "210", "Name": "Danny Schuster", "Gender": "M",
+		  "Hometown": "Dr.", "FinishTime": "1:26:51", 
+		  "Pace": "8:31", "Age": "37", "AgePlace": "31", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "211", "Name": "Paul Linton", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:29:01", 
+		  "Pace": "8:44", "Age": "48", "AgePlace": "22", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "212", "Name": "Taylor Ballinger", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:29:54", 
+		  "Pace": "8:49", "Age": "31", "AgePlace": "14", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "213", "Name": "Meredith Campbell", "Gender": "F",
+		  "Hometown": "Prospect", "FinishTime": "1:27:22", 
+		  "Pace": "8:34", "Age": "20", "AgePlace": "8", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "214", "Name": "Vanessa Oliver", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:29:20", 
+		  "Pace": "8:46", "Age": "42", "AgePlace": "13", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "215", "Name": "Jon Nichols", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:28:06", 
+		  "Pace": "8:38", "Age": "43", "AgePlace": "27", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "216", "Name": "David Kegg", "Gender": "M",
+		  "Hometown": "Batavia", "FinishTime": "1:28:08", 
+		  "Pace": "8:38", "Age": "50", "AgePlace": "11", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "217", "Name": "Allison Reed", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:29:37", 
+		  "Pace": "8:47", "Age": "29", "AgePlace": "12", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "218", "Name": "Paul Duffin", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "", 
+		  "Pace": "", "Age": "33", "AgePlace": "15", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "219", "Name": "Christina Simmons", "Gender": "F",
+		  "Hometown": "Winchester", "FinishTime": "1:29:07", 
+		  "Pace": "8:44", "Age": "34", "AgePlace": "10", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "220", "Name": "Keith Farmer", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:29:52", 
+		  "Pace": "8:49", "Age": "46", "AgePlace": "23", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "221", "Name": "Kevin Spratt", "Gender": "M",
+		  "Hometown": "Murfreesboro", "FinishTime": "1:29:30", 
+		  "Pace": "8:47", "Age": "33", "AgePlace": "16", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "222", "Name": "Stephen Bishop", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:29:18", 
+		  "Pace": "8:45", "Age": "40", "AgePlace": "28", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "223", "Name": "Charles Bishop", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:29:26", 
+		  "Pace": "8:46", "Age": "67", "AgePlace": "5", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "224", "Name": "Glady Simpson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "", 
+		  "Pace": "", "Age": "38", "AgePlace": "11", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "225", "Name": "Jennie Samons", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:30:25", 
+		  "Pace": "8:52", "Age": "36", "AgePlace": "12", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "226", "Name": "Kelsey Gibbs", "Gender": "F",
+		  "Hometown": "Corbin", "FinishTime": "1:29:34", 
+		  "Pace": "8:47", "Age": "29", "AgePlace": "13", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "227", "Name": "Leigh Anne Hoten", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:29:09", 
+		  "Pace": "8:44", "Age": "41", "AgePlace": "14", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "228", "Name": "Steve Case", "Gender": "M",
+		  "Hometown": "Berea", "FinishTime": "1:28:55", 
+		  "Pace": "8:43", "Age": "39", "AgePlace": "32", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "229", "Name": "Lori Codey", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:28:59", 
+		  "Pace": "8:43", "Age": "54", "AgePlace": "4", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "230", "Name": "Karen Green", "Gender": "F",
+		  "Hometown": "Richmond", "FinishTime": "1:29:33", 
+		  "Pace": "8:47", "Age": "34", "AgePlace": "11", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "231", "Name": "Ellen Black", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:30:51", 
+		  "Pace": "8:54", "Age": "28", "AgePlace": "14", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "232", "Name": "Todd Sparkman", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:31:27", 
+		  "Pace": "8:58", "Age": "41", "AgePlace": "29", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "233", "Name": "Amy Scheib", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:30:33", 
+		  "Pace": "8:53", "Age": "48", "AgePlace": "5", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "234", "Name": "Tom Romine", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:30:57", 
+		  "Pace": "8:55", "Age": "47", "AgePlace": "24", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "235", "Name": "Jonathan Jewett", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:30:42", 
+		  "Pace": "8:54", "Age": "57", "AgePlace": "8", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "236", "Name": "Alex Frost", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:28:25", 
+		  "Pace": "8:40", "Age": "26", "AgePlace": "26", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "237", "Name": "Vanessa Seitz", "Gender": "F",
+		  "Hometown": "Midway", "FinishTime": "1:30:47", 
+		  "Pace": "8:54", "Age": "43", "AgePlace": "15", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "238", "Name": "Daniel Hancock", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:28:53", 
+		  "Pace": "8:43", "Age": "38", "AgePlace": "33", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "239", "Name": "Jeanette Hayes", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:30:36", 
+		  "Pace": "8:53", "Age": "52", "AgePlace": "5", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "240", "Name": "David Talley", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:29:42", 
+		  "Pace": "8:48", "Age": "35", "AgePlace": "34", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "241", "Name": "Eric Baldwin", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:32:09", 
+		  "Pace": "9:02", "Age": "45", "AgePlace": "25", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "242", "Name": "Peter Mills", "Gender": "M",
+		  "Hometown": "Stamping Ground", "FinishTime": "1:30:49", 
+		  "Pace": "8:54", "Age": "62", "AgePlace": "4", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "243", "Name": "Sally Campbell", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:31:47", 
+		  "Pace": "9:00", "Age": "33", "AgePlace": "12", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "244", "Name": "Dave Evans", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:29:03", 
+		  "Pace": "8:44", "Age": "55", "AgePlace": "9", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "245", "Name": "Chloe Crumpton", "Gender": "F",
+		  "Hometown": "Shelbyville", "FinishTime": "1:31:11", 
+		  "Pace": "8:56", "Age": "21", "AgePlace": "9", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "246", "Name": "Jimmie Jackson", "Gender": "M",
+		  "Hometown": "Villa Hills", "FinishTime": "1:30:32", 
+		  "Pace": "8:53", "Age": "39", "AgePlace": "35", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "247", "Name": "Jessica Scarberry", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:30:01", 
+		  "Pace": "8:50", "Age": "27", "AgePlace": "15", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "248", "Name": "Natalie Hargis", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:31:40", 
+		  "Pace": "8:59", "Age": "25", "AgePlace": "16", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "249", "Name": "Brianna Robinson", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:30:55", 
+		  "Pace": "8:55", "Age": "27", "AgePlace": "17", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "250", "Name": "Daniel King", "Gender": "M",
+		  "Hometown": "Danville", "FinishTime": "1:32:03", 
+		  "Pace": "9:01", "Age": "35", "AgePlace": "36", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "251", "Name": "Bill Summers", "Gender": "M",
+		  "Hometown": "Danville", "FinishTime": "1:31:13", 
+		  "Pace": "8:57", "Age": "58", "AgePlace": "10", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "252", "Name": "Deanna Bauer", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:31:44", 
+		  "Pace": "9:00", "Age": "34", "AgePlace": "13", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "253", "Name": "Jennifer Morgan", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:32:22", 
+		  "Pace": "9:03", "Age": "38", "AgePlace": "13", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "254", "Name": "Cristina Cortez", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:32:10", 
+		  "Pace": "9:02", "Age": "33", "AgePlace": "17", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "255", "Name": "Brian Mattingly", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:29:39", 
+		  "Pace": "8:47", "Age": "40", "AgePlace": "30", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "256", "Name": "Patrick Stolper", "Gender": "M",
+		  "Hometown": "Union", "FinishTime": "1:31:36", 
+		  "Pace": "8:59", "Age": "61", "AgePlace": "5", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "257", "Name": "Mark Coyne", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:32:01", 
+		  "Pace": "9:01", "Age": "56", "AgePlace": "11", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "258", "Name": "Lori Stocker", "Gender": "F",
+		  "Hometown": "Lawrenceburg", "FinishTime": "1:32:12", 
+		  "Pace": "9:02", "Age": "55", "AgePlace": "1", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "259", "Name": "Thomas Stevens", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:27:21", 
+		  "Pace": "8:34", "Age": "29", "AgePlace": "27", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "260", "Name": "Abigail Florence", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:30:34", 
+		  "Pace": "8:53", "Age": "21", "AgePlace": "10", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "261", "Name": "Wes Truesdell", "Gender": "M",
+		  "Hometown": "Dover", "FinishTime": "1:32:17", 
+		  "Pace": "9:03", "Age": "39", "AgePlace": "37", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "262", "Name": "James Rothbauer", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:30:37", 
+		  "Pace": "8:53", "Age": "46", "AgePlace": "26", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "263", "Name": "Chris Darmand", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:31:32", 
+		  "Pace": "8:58", "Age": "40", "AgePlace": "31", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "264", "Name": "Stephanie Bradley", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:29:42", 
+		  "Pace": "8:48", "Age": "28", "AgePlace": "18", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "265", "Name": "Emily Estill", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:31:34", 
+		  "Pace": "8:59", "Age": "35", "AgePlace": "14", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "266", "Name": "Holden Hemingway", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:30:13", 
+		  "Pace": "8:51", "Age": "21", "AgePlace": "7", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "267", "Name": "Fei Ma", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:31:44", 
+		  "Pace": "9:00", "Age": "42", "AgePlace": "32", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "268", "Name": "Aaron Propes", "Gender": "M",
+		  "Hometown": "georgetown", "FinishTime": "1:30:25", 
+		  "Pace": "8:52", "Age": "38", "AgePlace": "38", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "269", "Name": "Cassidy Hale", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:33:19", 
+		  "Pace": "9:09", "Age": "21", "AgePlace": "11", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "270", "Name": "Anthony Creane", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:31:01", 
+		  "Pace": "8:55", "Age": "52", "AgePlace": "12", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "271", "Name": "Stephen Gillon", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:33:18", 
+		  "Pace": "9:09", "Age": "23", "AgePlace": "8", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "272", "Name": "Jordan Prendergast", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:31:58", 
+		  "Pace": "9:01", "Age": "36", "AgePlace": "15", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "273", "Name": "Mindy Ickes", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:32:31", 
+		  "Pace": "9:04", "Age": "37", "AgePlace": "16", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "274", "Name": "Raylene Knight", "Gender": "F",
+		  "Hometown": "Midway", "FinishTime": "1:30:56", 
+		  "Pace": "8:55", "Age": "38", "AgePlace": "17", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "275", "Name": "Matthew Cook", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:30:23", 
+		  "Pace": "8:52", "Age": "33", "AgePlace": "18", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "276", "Name": "Adam Turner", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:31:14", 
+		  "Pace": "8:57", "Age": "25", "AgePlace": "28", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "277", "Name": "Mya Scheib", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:31:42", 
+		  "Pace": "8:59", "Age": "20", "AgePlace": "12", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "278", "Name": "Bryan Travis", "Gender": "M",
+		  "Hometown": "Union", "FinishTime": "1:32:07", 
+		  "Pace": "9:02", "Age": "41", "AgePlace": "33", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "279", "Name": "Steve Hensley", "Gender": "M",
+		  "Hometown": "Belfry", "FinishTime": "1:31:29", 
+		  "Pace": "8:58", "Age": "42", "AgePlace": "34", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "280", "Name": "Steve Samples", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:29:02", 
+		  "Pace": "8:44", "Age": "53", "AgePlace": "13", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "281", "Name": "Walter Peavley", "Gender": "M",
+		  "Hometown": "Flat Lick", "FinishTime": "1:34:35", 
+		  "Pace": "9:16", "Age": "32", "AgePlace": "19", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "282", "Name": "Alex Brown", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:33:05", 
+		  "Pace": "9:08", "Age": "40", "AgePlace": "35", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "283", "Name": "Victor McCane", "Gender": "M",
+		  "Hometown": "berea", "FinishTime": "1:31:40", 
+		  "Pace": "8:59", "Age": "53", "AgePlace": "14", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "284", "Name": "Shawn Granoski", "Gender": "M",
+		  "Hometown": "La Grange", "FinishTime": "1:31:08", 
+		  "Pace": "8:56", "Age": "31", "AgePlace": "20", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "285", "Name": "Turner West", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:30:35", 
+		  "Pace": "8:53", "Age": "35", "AgePlace": "18", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "286", "Name": "John McGuire", "Gender": "M",
+		  "Hometown": "Catlettsburg", "FinishTime": "1:30:59", 
+		  "Pace": "8:55", "Age": "65", "AgePlace": "6", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "287", "Name": "Tricia Brill", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:33:34", 
+		  "Pace": "9:10", "Age": "33", "AgePlace": "14", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "288", "Name": "Randy Watercutter", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:31:53", 
+		  "Pace": "9:00", "Age": "25", "AgePlace": "29", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "289", "Name": "Joe Crouse", "Gender": "M",
+		  "Hometown": "Wilmore", "FinishTime": "1:32:48", 
+		  "Pace": "9:06", "Age": "44", "AgePlace": "36", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "290", "Name": "Alyse Treesh", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:33:33", 
+		  "Pace": "9:10", "Age": "28", "AgePlace": "19", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "291", "Name": "Kimberly Daniels", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:34:11", 
+		  "Pace": "9:14", "Age": "29", "AgePlace": "20", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "292", "Name": "Michelle Praria", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:31:37", 
+		  "Pace": "8:59", "Age": "36", "AgePlace": "19", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "293", "Name": "Tiffany Baker", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:32:56", 
+		  "Pace": "9:07", "Age": "42", "AgePlace": "16", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "294", "Name": "Will Hibbard", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:34:20", 
+		  "Pace": "9:15", "Age": "38", "AgePlace": "39", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "295", "Name": "Michael Bensing", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:34:14", 
+		  "Pace": "9:14", "Age": "41", "AgePlace": "37", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "296", "Name": "Nathan Bales", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:34:26", 
+		  "Pace": "9:16", "Age": "34", "AgePlace": "21", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "297", "Name": "Alicia Fedewa", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:36:00", 
+		  "Pace": "9:25", "Age": "35", "AgePlace": "20", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "298", "Name": "Andrew Mooney", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:33:31", 
+		  "Pace": "9:10", "Age": "48", "AgePlace": "27", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "299", "Name": "Diana Correll", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:35:37", 
+		  "Pace": "9:22", "Age": "48", "AgePlace": "6", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "300", "Name": "Marilyn Campbell", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:31:04", 
+		  "Pace": "8:56", "Age": "28", "AgePlace": "21", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "301", "Name": "Charles Berlin", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:35:41", 
+		  "Pace": "9:23", "Age": "47", "AgePlace": "28", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "302", "Name": "James Green", "Gender": "M",
+		  "Hometown": "Norcross", "FinishTime": "1:34:56", 
+		  "Pace": "9:18", "Age": "42", "AgePlace": "38", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "303", "Name": "Sarah Rowe", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:34:29", 
+		  "Pace": "9:16", "Age": "41", "AgePlace": "17", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "304", "Name": "Megan Williams", "Gender": "F",
+		  "Hometown": "Cambridge", "FinishTime": "1:31:21", 
+		  "Pace": "8:57", "Age": "31", "AgePlace": "15", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "305", "Name": "Carolyn Waits", "Gender": "F",
+		  "Hometown": "Cincinnati", "FinishTime": "1:34:36", 
+		  "Pace": "9:16", "Age": "65", "AgePlace": "1", 
+		  "AgeCategory": "F 65-69"
+		},
+		{ "Place": "306", "Name": "Elizabeth Hansen", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:34:24", 
+		  "Pace": "9:15", "Age": "23", "AgePlace": "13", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "307", "Name": "Anna Hansen", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:34:21", 
+		  "Pace": "9:15", "Age": "23", "AgePlace": "14", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "308", "Name": "Anthony Phillips", "Gender": "M",
+		  "Hometown": "Somerset", "FinishTime": "1:35:06", 
+		  "Pace": "9:19", "Age": "47", "AgePlace": "29", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "309", "Name": "Donna Anderson", "Gender": "F",
+		  "Hometown": "Florence", "FinishTime": "1:35:07", 
+		  "Pace": "9:20", "Age": "63", "AgePlace": "1", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "310", "Name": "Matthew Engle", "Gender": "M",
+		  "Hometown": "Bowling Green", "FinishTime": "1:33:11", 
+		  "Pace": "9:08", "Age": "30", "AgePlace": "22", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "311", "Name": "Rachel Castaneda", "Gender": "F",
+		  "Hometown": "Indianapolis", "FinishTime": "1:35:30", 
+		  "Pace": "9:22", "Age": "34", "AgePlace": "16", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "312", "Name": "Bryan Veal", "Gender": "M",
+		  "Hometown": "louisville", "FinishTime": "1:34:35", 
+		  "Pace": "9:16", "Age": "59", "AgePlace": "12", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "313", "Name": "Isaac Allen", "Gender": "M",
+		  "Hometown": "Grassy Creek", "FinishTime": "1:33:29", 
+		  "Pace": "9:10", "Age": "37", "AgePlace": "40", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "314", "Name": "TJ Cox", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:30:00", 
+		  "Pace": "8:49", "Age": "33", "AgePlace": "23", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "315", "Name": "Matthew Stevens", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:28:36", 
+		  "Pace": "8:41", "Age": "26", "AgePlace": "30", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "316", "Name": "Lora Barnett", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:35:18", 
+		  "Pace": "9:21", "Age": "28", "AgePlace": "22", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "317", "Name": "Marissa Hay", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:34:41", 
+		  "Pace": "9:17", "Age": "21", "AgePlace": "15", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "318", "Name": "William Hudson", "Gender": "M",
+		  "Hometown": "Hamilton", "FinishTime": "1:34:47", 
+		  "Pace": "9:18", "Age": "48", "AgePlace": "30", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "319", "Name": "Bernardo Cuadra", "Gender": "M",
+		  "Hometown": "Waltham", "FinishTime": "1:36:35", 
+		  "Pace": "9:28", "Age": "39", "AgePlace": "41", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "320", "Name": "Ashley Hannan", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:28", 
+		  "Pace": "9:33", "Age": "24", "AgePlace": "16", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "321", "Name": "Stephen McKenzie", "Gender": "M",
+		  "Hometown": "West Liberty", "FinishTime": "1:35:05", 
+		  "Pace": "9:19", "Age": "49", "AgePlace": "31", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "322", "Name": "Chris Garland", "Gender": "M",
+		  "Hometown": "Lawrenceburg", "FinishTime": "1:34:53", 
+		  "Pace": "9:18", "Age": "44", "AgePlace": "39", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "323", "Name": "Jacob Torres", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:33:32", 
+		  "Pace": "9:10", "Age": "15", "AgePlace": "2", 
+		  "AgeCategory": "M 14-19"
+		},
+		{ "Place": "324", "Name": "Frank Shoaf", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:33:02", 
+		  "Pace": "9:07", "Age": "49", "AgePlace": "32", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "325", "Name": "Luis Torres", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:33:28", 
+		  "Pace": "9:10", "Age": "42", "AgePlace": "40", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "326", "Name": "Christine Miller", "Gender": "F",
+		  "Hometown": "West Hartford", "FinishTime": "1:36:31", 
+		  "Pace": "9:28", "Age": "35", "AgePlace": "21", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "327", "Name": "Alison Weber", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:35:45", 
+		  "Pace": "9:23", "Age": "31", "AgePlace": "17", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "328", "Name": "Corbin Blumberg", "Gender": "M",
+		  "Hometown": "Potomac", "FinishTime": "1:34:22", 
+		  "Pace": "9:15", "Age": "22", "AgePlace": "9", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "329", "Name": "Tyler Garrison", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:34:43", 
+		  "Pace": "9:17", "Age": "20", "AgePlace": "17", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "330", "Name": "Gerald Bailey", "Gender": "M",
+		  "Hometown": "Glencoe", "FinishTime": "1:35:39", 
+		  "Pace": "9:23", "Age": "65", "AgePlace": "7", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "331", "Name": "Amy Bunt", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:36:58", 
+		  "Pace": "9:30", "Age": "35", "AgePlace": "22", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "332", "Name": "Erin Reagan", "Gender": "F",
+		  "Hometown": "Naperville", "FinishTime": "1:33:44", 
+		  "Pace": "9:11", "Age": "21", "AgePlace": "18", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "333", "Name": "Darrell Sandfoss", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:34:41", 
+		  "Pace": "9:17", "Age": "47", "AgePlace": "33", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "334", "Name": "Richard Ellis III", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:34:34", 
+		  "Pace": "9:16", "Age": "26", "AgePlace": "31", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "335", "Name": "Ute Keathley", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:34:42", 
+		  "Pace": "9:17", "Age": "50", "AgePlace": "6", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "336", "Name": "Tom Creasey", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:34:14", 
+		  "Pace": "9:14", "Age": "57", "AgePlace": "13", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "337", "Name": "Teri Myers", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:35:36", 
+		  "Pace": "9:22", "Age": "48", "AgePlace": "7", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "338", "Name": "Kelly Pictor", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:36:21", 
+		  "Pace": "9:27", "Age": "47", "AgePlace": "8", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "339", "Name": "Jayme Patton", "Gender": "F",
+		  "Hometown": "Sharpsburg", "FinishTime": "1:34:08", 
+		  "Pace": "9:14", "Age": "28", "AgePlace": "23", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "340", "Name": "Alison Buckley", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:36:39", 
+		  "Pace": "9:29", "Age": "29", "AgePlace": "24", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "341", "Name": "Chett Keathley", "Gender": "M",
+		  "Hometown": "Nicholasville", "FinishTime": "1:34:41", 
+		  "Pace": "9:17", "Age": "45", "AgePlace": "34", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "342", "Name": "Michael Mills", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:36:29", 
+		  "Pace": "9:28", "Age": "33", "AgePlace": "24", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "343", "Name": "Jillian Mills", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:36:31", 
+		  "Pace": "9:28", "Age": "32", "AgePlace": "18", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "344", "Name": "Jennifer Alvis", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:37:28", 
+		  "Pace": "9:33", "Age": "37", "AgePlace": "23", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "345", "Name": "Ken Sperry", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:33:57", 
+		  "Pace": "9:13", "Age": "52", "AgePlace": "15", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "346", "Name": "Doug Eades", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:37:16", 
+		  "Pace": "9:32", "Age": "48", "AgePlace": "35", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "347", "Name": "Aaron McIntosh", "Gender": "M",
+		  "Hometown": "Midway", "FinishTime": "1:37:17", 
+		  "Pace": "9:32", "Age": "42", "AgePlace": "41", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "348", "Name": "Anonymous Participant", "Gender": "M",
+		  "Hometown": "Stillwater", "FinishTime": "1:35:53", 
+		  "Pace": "9:24", "Age": "54", "AgePlace": "16", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "349", "Name": "Rick Fletcher", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:37:20", 
+		  "Pace": "9:33", "Age": "49", "AgePlace": "36", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "350", "Name": "Joslyn Stanfield", "Gender": "F",
+		  "Hometown": "Winchester", "FinishTime": "1:36:16", 
+		  "Pace": "9:26", "Age": "37", "AgePlace": "24", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "351", "Name": "Mark Wallace", "Gender": "M",
+		  "Hometown": "Ariton", "FinishTime": "1:38:02", 
+		  "Pace": "9:37", "Age": "15", "AgePlace": "3", 
+		  "AgeCategory": "M 14-19"
+		},
+		{ "Place": "352", "Name": "Sydney Crawley", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:36:00", 
+		  "Pace": "9:25", "Age": "27", "AgePlace": "25", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "353", "Name": "Marshall Herbst", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:35:16", 
+		  "Pace": "9:20", "Age": "27", "AgePlace": "32", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "354", "Name": "Tyler Hayes", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:35:53", 
+		  "Pace": "9:24", "Age": "24", "AgePlace": "10", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "355", "Name": "Kimberly Hensley", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:37:36", 
+		  "Pace": "9:34", "Age": "40", "AgePlace": "18", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "356", "Name": "Ld Vaught", "Gender": "F",
+		  "Hometown": "lexington", "FinishTime": "1:38:22", 
+		  "Pace": "9:39", "Age": "50", "AgePlace": "7", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "357", "Name": "Ernie Whisman", "Gender": "M",
+		  "Hometown": "Rogers", "FinishTime": "1:38:22", 
+		  "Pace": "9:39", "Age": "48", "AgePlace": "37", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "358", "Name": "Barbara Palmquist", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:35:34", 
+		  "Pace": "9:22", "Age": "65", "AgePlace": "2", 
+		  "AgeCategory": "F 65-69"
+		},
+		{ "Place": "359", "Name": "Leonard Spencer", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:35:37", 
+		  "Pace": "9:22", "Age": "50", "AgePlace": "17", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "360", "Name": "Susan Beth Meeks", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:34:40", 
+		  "Pace": "9:17", "Age": "27", "AgePlace": "26", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "361", "Name": "Norma Stanford", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:46", 
+		  "Pace": "9:35", "Age": "64", "AgePlace": "2", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "362", "Name": "Mike Harrington", "Gender": "M",
+		  "Hometown": "Cynthiana", "FinishTime": "1:37:19", 
+		  "Pace": "9:32", "Age": "64", "AgePlace": "6", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "363", "Name": "Courtney Soale", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:35:17", 
+		  "Pace": "9:20", "Age": "34", "AgePlace": "19", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "364", "Name": "Jennifer Jarvis", "Gender": "F",
+		  "Hometown": "Arden", "FinishTime": "1:37:35", 
+		  "Pace": "9:34", "Age": "25", "AgePlace": "27", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "365", "Name": "Donna England", "Gender": "F",
+		  "Hometown": "Auburn", "FinishTime": "1:39:04", 
+		  "Pace": "9:43", "Age": "52", "AgePlace": "8", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "366", "Name": "Tommy Craft", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:36:35", 
+		  "Pace": "9:28", "Age": "46", "AgePlace": "38", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "367", "Name": "Raymond McKinney", "Gender": "M",
+		  "Hometown": "Berea", "FinishTime": "1:37:59", 
+		  "Pace": "9:36", "Age": "52", "AgePlace": "18", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "368", "Name": "Angela Poe", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:57", 
+		  "Pace": "9:36", "Age": "38", "AgePlace": "25", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "369", "Name": "Bradley Justice", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:37:24", 
+		  "Pace": "9:33", "Age": "31", "AgePlace": "25", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "370", "Name": "Robin Thompson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:36:02", 
+		  "Pace": "9:25", "Age": "27", "AgePlace": "28", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "371", "Name": "Cody Ellis", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:36:40", 
+		  "Pace": "9:29", "Age": "27", "AgePlace": "33", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "372", "Name": "Alexander Menrisky", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:37:47", 
+		  "Pace": "9:35", "Age": "26", "AgePlace": "34", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "373", "Name": "Randy Newberry", "Gender": "M",
+		  "Hometown": "Maysville", "FinishTime": "1:35:02", 
+		  "Pace": "9:19", "Age": "53", "AgePlace": "19", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "374", "Name": "Laura Bravo", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:57", 
+		  "Pace": "9:36", "Age": "41", "AgePlace": "19", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "375", "Name": "Mark Leggas", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:37:18", 
+		  "Pace": "9:32", "Age": "48", "AgePlace": "39", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "376", "Name": "Diane Loeffler", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:19", 
+		  "Pace": "9:32", "Age": "43", "AgePlace": "20", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "377", "Name": "Matthew Campbell", "Gender": "M",
+		  "Hometown": "Fishers", "FinishTime": "1:40:08", 
+		  "Pace": "9:49", "Age": "41", "AgePlace": "42", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "378", "Name": "Heather Jacobs", "Gender": "F",
+		  "Hometown": "Wilmore", "FinishTime": "1:38:11", 
+		  "Pace": "9:38", "Age": "39", "AgePlace": "26", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "379", "Name": "Nancy Barrett", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:02", 
+		  "Pace": "9:31", "Age": "37", "AgePlace": "27", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "380", "Name": "Darren Brown", "Gender": "M",
+		  "Hometown": "lexington", "FinishTime": "1:34:28", 
+		  "Pace": "9:16", "Age": "36", "AgePlace": "42", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "381", "Name": "Eric Teipel", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:38:53", 
+		  "Pace": "9:42", "Age": "24", "AgePlace": "11", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "382", "Name": "Michael Smith", "Gender": "M",
+		  "Hometown": "Chavies", "FinishTime": "1:37:16", 
+		  "Pace": "9:32", "Age": "49", "AgePlace": "40", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "383", "Name": "Katelyn Smith", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:15", 
+		  "Pace": "9:32", "Age": "22", "AgePlace": "19", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "384", "Name": "Richard Douthat", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:39:43", 
+		  "Pace": "9:47", "Age": "27", "AgePlace": "35", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "385", "Name": "William Goebel", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:39:43", 
+		  "Pace": "9:47", "Age": "27", "AgePlace": "36", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "386", "Name": "Rasonda Smith", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:50", 
+		  "Pace": "9:36", "Age": "45", "AgePlace": "9", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "387", "Name": "Kelly Crawhorn", "Gender": "F",
+		  "Hometown": "Columbia", "FinishTime": "1:37:11", 
+		  "Pace": "9:32", "Age": "37", "AgePlace": "28", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "388", "Name": "Melissa Holmes", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:41", 
+		  "Pace": "9:46", "Age": "24", "AgePlace": "20", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "389", "Name": "Amber Watercutter", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:37:46", 
+		  "Pace": "9:35", "Age": "22", "AgePlace": "21", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "390", "Name": "Tonya Harman", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:38:11", 
+		  "Pace": "9:38", "Age": "37", "AgePlace": "29", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "391", "Name": "Fred Campbell", "Gender": "M",
+		  "Hometown": "Knoxville", "FinishTime": "1:33:21", 
+		  "Pace": "9:09", "Age": "38", "AgePlace": "43", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "392", "Name": "Jennifer Garland", "Gender": "F",
+		  "Hometown": "Lawrenceburg", "FinishTime": "1:39:12", 
+		  "Pace": "9:44", "Age": "41", "AgePlace": "21", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "393", "Name": "Julia Amann", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:37", 
+		  "Pace": "9:46", "Age": "29", "AgePlace": "29", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "394", "Name": "Carlos Lamarche", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:38:22", 
+		  "Pace": "9:39", "Age": "44", "AgePlace": "43", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "395", "Name": "Maureen Waugerman", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:05", 
+		  "Pace": "9:49", "Age": "45", "AgePlace": "10", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "396", "Name": "Aaron House", "Gender": "M",
+		  "Hometown": "Corbin", "FinishTime": "1:36:17", 
+		  "Pace": "9:26", "Age": "34", "AgePlace": "26", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "397", "Name": "Chris Vogt", "Gender": "M",
+		  "Hometown": "Milford", "FinishTime": "1:39:34", 
+		  "Pace": "9:46", "Age": "44", "AgePlace": "44", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "398", "Name": "Hilary Lamb", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:36:34", 
+		  "Pace": "9:28", "Age": "24", "AgePlace": "22", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "399", "Name": "Heidi Moreland", "Gender": "F",
+		  "Hometown": "Nashville", "FinishTime": "1:38:59", 
+		  "Pace": "9:42", "Age": "49", "AgePlace": "11", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "400", "Name": "Brenda Kirkpatrick", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:50", 
+		  "Pace": "9:36", "Age": "27", "AgePlace": "30", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "401", "Name": "Agatha Critchfield", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:14", 
+		  "Pace": "9:50", "Age": "40", "AgePlace": "22", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "402", "Name": "Amy Schell", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:14", 
+		  "Pace": "9:50", "Age": "37", "AgePlace": "30", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "403", "Name": "Eric Huntley", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:36:32", 
+		  "Pace": "9:28", "Age": "28", "AgePlace": "37", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "404", "Name": "Allison Moreman", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:37:48", 
+		  "Pace": "9:35", "Age": "40", "AgePlace": "23", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "405", "Name": "Stacy Thurman", "Gender": "F",
+		  "Hometown": "Midway", "FinishTime": "1:38:11", 
+		  "Pace": "9:38", "Age": "38", "AgePlace": "31", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "406", "Name": "Rachel Saunders", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:38:47", 
+		  "Pace": "9:41", "Age": "30", "AgePlace": "20", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "407", "Name": "Jill Van Tassel", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:27", 
+		  "Pace": "9:45", "Age": "47", "AgePlace": "12", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "408", "Name": "Julia Ruzzene", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:39:02", 
+		  "Pace": "9:43", "Age": "42", "AgePlace": "24", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "409", "Name": "Donald Wakefield", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:35:37", 
+		  "Pace": "9:22", "Age": "40", "AgePlace": "45", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "410", "Name": "Karen Condi", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:06", 
+		  "Pace": "9:43", "Age": "44", "AgePlace": "25", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "411", "Name": "Bethany Brown", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:35:39", 
+		  "Pace": "9:23", "Age": "28", "AgePlace": "31", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "412", "Name": "Debbie Neff", "Gender": "F",
+		  "Hometown": "Morehead", "FinishTime": "1:40:11", 
+		  "Pace": "9:49", "Age": "37", "AgePlace": "32", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "413", "Name": "Bruce Belin", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:40:29", 
+		  "Pace": "9:51", "Age": "49", "AgePlace": "41", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "414", "Name": "Rose-Marie D'Agostino", "Gender": "F",
+		  "Hometown": "White Bluff", "FinishTime": "1:40:06", 
+		  "Pace": "9:49", "Age": "50", "AgePlace": "9", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "415", "Name": "Shea Terry", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:13", 
+		  "Pace": "9:44", "Age": "36", "AgePlace": "33", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "416", "Name": "John Erdtmann", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:38:09", 
+		  "Pace": "9:37", "Age": "48", "AgePlace": "42", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "417", "Name": "Dennis Chavies", "Gender": "M",
+		  "Hometown": "Flat Lick", "FinishTime": "1:37:18", 
+		  "Pace": "9:32", "Age": "48", "AgePlace": "43", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "418", "Name": "Katie Engel", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:40:01", 
+		  "Pace": "9:48", "Age": "37", "AgePlace": "34", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "419", "Name": "Merryll Loy", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:41:05", 
+		  "Pace": "9:55", "Age": "20", "AgePlace": "23", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "420", "Name": "Jay McChord", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:40:13", 
+		  "Pace": "9:49", "Age": "48", "AgePlace": "44", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "421", "Name": "James Stewart", "Gender": "M",
+		  "Hometown": "Nicholasville", "FinishTime": "1:39:48", 
+		  "Pace": "9:47", "Age": "40", "AgePlace": "46", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "422", "Name": "Carol McGonigal", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:14", 
+		  "Pace": "9:50", "Age": "51", "AgePlace": "10", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "423", "Name": "Mary Ann Mandola", "Gender": "F",
+		  "Hometown": "Winchester", "FinishTime": "1:40:16", 
+		  "Pace": "9:50", "Age": "48", "AgePlace": "13", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "424", "Name": "AUSTIN GABHART", "Gender": "M",
+		  "Hometown": "LANCASTER", "FinishTime": "1:39:31", 
+		  "Pace": "9:45", "Age": "54", "AgePlace": "20", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "425", "Name": "Mark Amann", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:41:08", 
+		  "Pace": "9:55", "Age": "32", "AgePlace": "27", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "426", "Name": "Caroline Crush", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:32", 
+		  "Pace": "9:46", "Age": "19", "AgePlace": "2", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "427", "Name": "Luke Stratton", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:41:42", 
+		  "Pace": "9:58", "Age": "25", "AgePlace": "38", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "428", "Name": "Anonymous Participant", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:41:46", 
+		  "Pace": "9:59", "Age": "45", "AgePlace": "26", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "429", "Name": "Eva Langlois", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:41:06", 
+		  "Pace": "9:55", "Age": "36", "AgePlace": "35", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "430", "Name": "Martha Sowders", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:39:32", 
+		  "Pace": "9:45", "Age": "32", "AgePlace": "21", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "431", "Name": "Amanda Thomas", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:36", 
+		  "Pace": "9:46", "Age": "28", "AgePlace": "32", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "432", "Name": "Ginger Baker", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:39:47", 
+		  "Pace": "9:47", "Age": "35", "AgePlace": "36", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "433", "Name": "Jennifer Loparo", "Gender": "F",
+		  "Hometown": "Bloomfield", "FinishTime": "1:42:12", 
+		  "Pace": "10:01", "Age": "33", "AgePlace": "22", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "434", "Name": "Heather Campbell-Speltz", "Gender": "F",
+		  "Hometown": "Richmond", "FinishTime": "1:39:44", 
+		  "Pace": "9:47", "Age": "45", "AgePlace": "14", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "435", "Name": "Jacob Slone", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:36:17", 
+		  "Pace": "9:26", "Age": "21", "AgePlace": "12", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "436", "Name": "Anna Hagan", "Gender": "F",
+		  "Hometown": "Goshen", "FinishTime": "1:36:58", 
+		  "Pace": "9:30", "Age": "21", "AgePlace": "24", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "437", "Name": "Chris Jones", "Gender": "M",
+		  "Hometown": "wilmore", "FinishTime": "1:39:20", 
+		  "Pace": "9:44", "Age": "41", "AgePlace": "47", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "438", "Name": "Joe Dan Beavers", "Gender": "M",
+		  "Hometown": "Bowling Green", "FinishTime": "1:41:40", 
+		  "Pace": "9:58", "Age": "39", "AgePlace": "44", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "439", "Name": "David Apple", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:41:46", 
+		  "Pace": "9:59", "Age": "42", "AgePlace": "48", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "440", "Name": "Billy Van Pelt", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:41:58", 
+		  "Pace": "10:00", "Age": "51", "AgePlace": "21", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "441", "Name": "Aly Mikesell", "Gender": "F",
+		  "Hometown": "Saint Albans", "FinishTime": "1:43:06", 
+		  "Pace": "10:06", "Age": "14", "AgePlace": "3", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "442", "Name": "Arnessa Craft", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:43:18", 
+		  "Pace": "10:08", "Age": "39", "AgePlace": "37", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "443", "Name": "Roland Baxley", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:40:01", 
+		  "Pace": "9:48", "Age": "56", "AgePlace": "14", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "444", "Name": "Hallye Griffin", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:48", 
+		  "Pace": "9:53", "Age": "30", "AgePlace": "23", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "445", "Name": "Tina Tyree", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:39:32", 
+		  "Pace": "9:45", "Age": "36", "AgePlace": "38", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "446", "Name": "Stephen Crutcher", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:40:15", 
+		  "Pace": "9:50", "Age": "27", "AgePlace": "39", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "447", "Name": "Hilary Denney", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:11", 
+		  "Pace": "9:49", "Age": "26", "AgePlace": "33", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "448", "Name": "Raymond Papka", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:41:50", 
+		  "Pace": "9:59", "Age": "71", "AgePlace": "1", 
+		  "AgeCategory": "M 70-74"
+		},
+		{ "Place": "449", "Name": "James Nihoris", "Gender": "M",
+		  "Hometown": "My Sterling", "FinishTime": "1:41:02", 
+		  "Pace": "9:54", "Age": "61", "AgePlace": "7", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "450", "Name": "Sally DeNoma", "Gender": "F",
+		  "Hometown": "Loveland", "FinishTime": "1:40:54", 
+		  "Pace": "9:54", "Age": "21", "AgePlace": "25", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "451", "Name": "Marcus Carmicle", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:41:33", 
+		  "Pace": "9:57", "Age": "46", "AgePlace": "45", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "452", "Name": "Nathan Simon", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:39:33", 
+		  "Pace": "9:46", "Age": "30", "AgePlace": "28", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "453", "Name": "Hal Walkup", "Gender": "M",
+		  "Hometown": "Florence", "FinishTime": "1:40:35", 
+		  "Pace": "9:52", "Age": "69", "AgePlace": "8", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "454", "Name": "Terence Snoeberger", "Gender": "M",
+		  "Hometown": "Indianapolis", "FinishTime": "1:42:06", 
+		  "Pace": "10:01", "Age": "57", "AgePlace": "15", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "455", "Name": "Derik Hunt", "Gender": "M",
+		  "Hometown": "Danville", "FinishTime": "1:39:35", 
+		  "Pace": "9:46", "Age": "46", "AgePlace": "46", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "456", "Name": "Nathan Bentley", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:39:59", 
+		  "Pace": "9:48", "Age": "38", "AgePlace": "45", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "457", "Name": "Mark Fedewa", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:40:09", 
+		  "Pace": "9:49", "Age": "44", "AgePlace": "49", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "458", "Name": "Kameron Kragel", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:39:20", 
+		  "Pace": "9:44", "Age": "24", "AgePlace": "13", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "459", "Name": "Kimberly Brohas", "Gender": "F",
+		  "Hometown": "Dayton", "FinishTime": "1:40:48", 
+		  "Pace": "9:53", "Age": "54", "AgePlace": "11", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "460", "Name": "Sherry Mcgraw", "Gender": "F",
+		  "Hometown": "Winchester", "FinishTime": "1:42:06", 
+		  "Pace": "10:01", "Age": "53", "AgePlace": "12", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "461", "Name": "Courtney Markham", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:41:52", 
+		  "Pace": "9:59", "Age": "39", "AgePlace": "39", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "462", "Name": "Jamie Harper White", "Gender": "F",
+		  "Hometown": "louisville", "FinishTime": "1:40:42", 
+		  "Pace": "9:52", "Age": "53", "AgePlace": "13", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "463", "Name": "Kelly Mink", "Gender": "F",
+		  "Hometown": "Corinth", "FinishTime": "1:38:17", 
+		  "Pace": "9:38", "Age": "43", "AgePlace": "27", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "464", "Name": "William DeFoor", "Gender": "M",
+		  "Hometown": "Cincinnati", "FinishTime": "1:42:23", 
+		  "Pace": "10:02", "Age": "48", "AgePlace": "47", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "465", "Name": "Anthony Davis", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:38:40", 
+		  "Pace": "9:40", "Age": "36", "AgePlace": "46", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "466", "Name": "Michelle Baxter", "Gender": "F",
+		  "Hometown": "Crestwood", "FinishTime": "1:41:22", 
+		  "Pace": "9:56", "Age": "46", "AgePlace": "15", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "467", "Name": "Tara Marshall", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:42:01", 
+		  "Pace": "10:00", "Age": "22", "AgePlace": "26", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "468", "Name": "Bryant Campbell", "Gender": "M",
+		  "Hometown": "Philadelphia", "FinishTime": "1:41:23", 
+		  "Pace": "9:56", "Age": "43", "AgePlace": "50", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "469", "Name": "Melody Marshall", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:42:06", 
+		  "Pace": "10:01", "Age": "51", "AgePlace": "14", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "470", "Name": "Jack Feemster", "Gender": "M",
+		  "Hometown": "Vine Grove", "FinishTime": "1:40:29", 
+		  "Pace": "9:51", "Age": "50", "AgePlace": "22", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "471", "Name": "Leah Stinson", "Gender": "F",
+		  "Hometown": "Olive Hill", "FinishTime": "1:41:38", 
+		  "Pace": "9:58", "Age": "33", "AgePlace": "24", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "472", "Name": "Angie Baxley", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:35", 
+		  "Pace": "9:52", "Age": "54", "AgePlace": "15", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "473", "Name": "Chuck Jones", "Gender": "M",
+		  "Hometown": "Hazard", "FinishTime": "1:41:25", 
+		  "Pace": "9:57", "Age": "58", "AgePlace": "16", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "474", "Name": "Derik Heumann", "Gender": "M",
+		  "Hometown": "Wilmore", "FinishTime": "1:43:02", 
+		  "Pace": "10:06", "Age": "25", "AgePlace": "40", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "475", "Name": "Shelby Ison", "Gender": "F",
+		  "Hometown": "lexington", "FinishTime": "1:42:58", 
+		  "Pace": "10:06", "Age": "48", "AgePlace": "16", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "476", "Name": "Darby Franklin", "Gender": "M",
+		  "Hometown": "West Liberty", "FinishTime": "1:42:01", 
+		  "Pace": "10:00", "Age": "43", "AgePlace": "51", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "477", "Name": "Samantha Ashford", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:44:01", 
+		  "Pace": "10:12", "Age": "29", "AgePlace": "34", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "478", "Name": "Rebecca Ashby", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:42:20", 
+		  "Pace": "10:02", "Age": "33", "AgePlace": "25", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "479", "Name": "James Kline", "Gender": "M",
+		  "Hometown": "Wilmore", "FinishTime": "1:41:02", 
+		  "Pace": "9:54", "Age": "61", "AgePlace": "8", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "480", "Name": "Cheri Sanger", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:41:43", 
+		  "Pace": "9:58", "Age": "40", "AgePlace": "28", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "481", "Name": "Stacey Altwies", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:41:38", 
+		  "Pace": "9:58", "Age": "46", "AgePlace": "17", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "482", "Name": "Stephanie Hanson", "Gender": "F",
+		  "Hometown": "Moravia", "FinishTime": "1:42:40", 
+		  "Pace": "10:04", "Age": "36", "AgePlace": "40", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "483", "Name": "Kristina Kazimir", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:24", 
+		  "Pace": "9:51", "Age": "20", "AgePlace": "27", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "484", "Name": "Whitney Shrout", "Gender": "F",
+		  "Hometown": "Sharpsburg", "FinishTime": "1:38:54", 
+		  "Pace": "9:42", "Age": "28", "AgePlace": "35", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "485", "Name": "Stefany Head", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:43:58", 
+		  "Pace": "10:12", "Age": "35", "AgePlace": "41", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "486", "Name": "Jessica Grant", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:42:16", 
+		  "Pace": "10:02", "Age": "29", "AgePlace": "36", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "487", "Name": "Alissa Parker", "Gender": "F",
+		  "Hometown": "Ashland", "FinishTime": "1:44:27", 
+		  "Pace": "10:14", "Age": "37", "AgePlace": "42", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "488", "Name": "Chris Petter", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:42:17", 
+		  "Pace": "10:02", "Age": "41", "AgePlace": "52", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "489", "Name": "Kayla Dobson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:40:33", 
+		  "Pace": "9:51", "Age": "24", "AgePlace": "28", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "490", "Name": "Elizabeth Hughes", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:42:54", 
+		  "Pace": "10:05", "Age": "22", "AgePlace": "29", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "491", "Name": "Anna Fuller", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:43:48", 
+		  "Pace": "10:11", "Age": "26", "AgePlace": "37", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "492", "Name": "Tim Koshurba", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:42:07", 
+		  "Pace": "10:01", "Age": "34", "AgePlace": "29", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "493", "Name": "Dennis Wilson", "Gender": "M",
+		  "Hometown": "Owensboro", "FinishTime": "1:42:14", 
+		  "Pace": "10:01", "Age": "56", "AgePlace": "17", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "494", "Name": "Phillip Stith", "Gender": "M",
+		  "Hometown": "Somerset", "FinishTime": "1:39:27", 
+		  "Pace": "9:45", "Age": "36", "AgePlace": "47", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "495", "Name": "Steven Luttrell", "Gender": "M",
+		  "Hometown": "Danville", "FinishTime": "1:40:49", 
+		  "Pace": "9:53", "Age": "44", "AgePlace": "53", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "496", "Name": "Lisa Faust", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:42:24", 
+		  "Pace": "10:02", "Age": "35", "AgePlace": "43", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "497", "Name": "Anastasia Fannin", "Gender": "F",
+		  "Hometown": "Morehead", "FinishTime": "1:42:44", 
+		  "Pace": "10:04", "Age": "37", "AgePlace": "44", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "498", "Name": "Gina Morgan", "Gender": "F",
+		  "Hometown": "Lawrenceburg", "FinishTime": "1:43:25", 
+		  "Pace": "10:08", "Age": "32", "AgePlace": "26", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "499", "Name": "David Chavies", "Gender": "M",
+		  "Hometown": "Flat Lick", "FinishTime": "1:40:35", 
+		  "Pace": "9:52", "Age": "51", "AgePlace": "23", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "500", "Name": "Josh Morgan", "Gender": "M",
+		  "Hometown": "Lawrenceburg", "FinishTime": "1:43:21", 
+		  "Pace": "10:08", "Age": "33", "AgePlace": "30", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "501", "Name": "Hal Newell", "Gender": "M",
+		  "Hometown": "Winston Salem", "FinishTime": "1:40:38", 
+		  "Pace": "9:52", "Age": "66", "AgePlace": "9", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "502", "Name": "Dallas Watts", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:43:38", 
+		  "Pace": "10:10", "Age": "47", "AgePlace": "48", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "503", "Name": "Lori Rayburn", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:42:45", 
+		  "Pace": "10:04", "Age": "49", "AgePlace": "18", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "504", "Name": "Friederike Strelow", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:36", 
+		  "Pace": "10:21", "Age": "34", "AgePlace": "27", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "505", "Name": "Suzanne Zywicki", "Gender": "F",
+		  "Hometown": "New York", "FinishTime": "1:44:41", 
+		  "Pace": "10:16", "Age": "54", "AgePlace": "16", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "506", "Name": "Rosa Plage", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:39", 
+		  "Pace": "10:16", "Age": "27", "AgePlace": "38", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "507", "Name": "Brittany Corrigan", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:33", 
+		  "Pace": "10:21", "Age": "27", "AgePlace": "39", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "508", "Name": "Lisa Thompson", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:44:18", 
+		  "Pace": "10:14", "Age": "37", "AgePlace": "45", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "509", "Name": "Aaron Mattingly", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:45:21", 
+		  "Pace": "10:20", "Age": "30", "AgePlace": "31", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "510", "Name": "Kim Gullatt", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:44:03", 
+		  "Pace": "10:12", "Age": "49", "AgePlace": "19", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "511", "Name": "Katie McKinney", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:18", 
+		  "Pace": "10:19", "Age": "34", "AgePlace": "28", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "512", "Name": "Jaime Day", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:26", 
+		  "Pace": "10:14", "Age": "36", "AgePlace": "46", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "513", "Name": "Angela Hamilton", "Gender": "F",
+		  "Hometown": "Richmond", "FinishTime": "", 
+		  "Pace": "", "Age": "37", "AgePlace": "47", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "514", "Name": "Tara Suetholz", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:29", 
+		  "Pace": "10:15", "Age": "20", "AgePlace": "30", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "515", "Name": "Melanie Fowler", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:00", 
+		  "Pace": "10:18", "Age": "40", "AgePlace": "29", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "516", "Name": "Bill Swinford", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:44:15", 
+		  "Pace": "10:13", "Age": "50", "AgePlace": "24", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "517", "Name": "Jenny Waybright", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:42", 
+		  "Pace": "10:16", "Age": "52", "AgePlace": "17", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "518", "Name": "Rose Hammer", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:45:10", 
+		  "Pace": "10:19", "Age": "21", "AgePlace": "31", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "519", "Name": "Paul Woosley", "Gender": "M",
+		  "Hometown": "Isonville", "FinishTime": "1:42:31", 
+		  "Pace": "10:03", "Age": "42", "AgePlace": "54", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "520", "Name": "Vanessa Veloz", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:43:36", 
+		  "Pace": "10:09", "Age": "33", "AgePlace": "29", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "521", "Name": "Erin Kimla", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:45:59", 
+		  "Pace": "10:23", "Age": "29", "AgePlace": "40", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "522", "Name": "Misty Blaylock", "Gender": "F",
+		  "Hometown": "Richmond", "FinishTime": "1:45:26", 
+		  "Pace": "10:20", "Age": "33", "AgePlace": "30", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "523", "Name": "Jennifer Howard", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:45:27", 
+		  "Pace": "10:20", "Age": "42", "AgePlace": "30", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "524", "Name": "Erin Newell", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:03", 
+		  "Pace": "10:18", "Age": "28", "AgePlace": "41", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "525", "Name": "Shannon Young", "Gender": "F",
+		  "Hometown": "Jamestown", "FinishTime": "1:44:19", 
+		  "Pace": "10:14", "Age": "44", "AgePlace": "31", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "526", "Name": "Steve Coleman", "Gender": "M",
+		  "Hometown": "Taylorsville", "FinishTime": "1:45:41", 
+		  "Pace": "10:22", "Age": "46", "AgePlace": "49", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "527", "Name": "ANDREW SCHLOOT", "Gender": "M",
+		  "Hometown": "Indianapolis", "FinishTime": "1:45:55", 
+		  "Pace": "10:23", "Age": "49", "AgePlace": "50", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "528", "Name": "Rachel Travis", "Gender": "F",
+		  "Hometown": "Union", "FinishTime": "1:45:04", 
+		  "Pace": "10:18", "Age": "40", "AgePlace": "32", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "529", "Name": "Lala Ma", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:57", 
+		  "Pace": "10:23", "Age": "31", "AgePlace": "31", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "530", "Name": "Amanda Kaiser-Jones", "Gender": "F",
+		  "Hometown": "Shelbyville", "FinishTime": "1:44:05", 
+		  "Pace": "10:12", "Age": "37", "AgePlace": "48", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "531", "Name": "Alexandra Hall", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:05", 
+		  "Pace": "10:18", "Age": "26", "AgePlace": "42", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "532", "Name": "Brian Rice", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:46:38", 
+		  "Pace": "10:27", "Age": "48", "AgePlace": "51", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "533", "Name": "Laura Cox", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:01", 
+		  "Pace": "10:12", "Age": "31", "AgePlace": "32", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "534", "Name": "Eric Weber", "Gender": "M",
+		  "Hometown": "Paris", "FinishTime": "1:44:50", 
+		  "Pace": "10:17", "Age": "35", "AgePlace": "48", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "535", "Name": "Jennifer Caudill", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:43:29", 
+		  "Pace": "10:09", "Age": "44", "AgePlace": "33", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "536", "Name": "Shane Evans", "Gender": "F",
+		  "Hometown": "Palatine", "FinishTime": "1:45:16", 
+		  "Pace": "10:19", "Age": "31", "AgePlace": "33", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "537", "Name": "Nicole Galavotti", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:47:08", 
+		  "Pace": "10:30", "Age": "42", "AgePlace": "34", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "538", "Name": "Danny Craig", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:42:21", 
+		  "Pace": "10:02", "Age": "28", "AgePlace": "41", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "539", "Name": "Casey Stansbury", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:48:27", 
+		  "Pace": "10:38", "Age": "42", "AgePlace": "55", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "540", "Name": "Brent Fronczak", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:47:45", 
+		  "Pace": "10:34", "Age": "32", "AgePlace": "32", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "541", "Name": "Ruth Carleton", "Gender": "F",
+		  "Hometown": "Salvisa", "FinishTime": "1:45:41", 
+		  "Pace": "10:22", "Age": "56", "AgePlace": "2", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "542", "Name": "Katie Kolokowsky", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:47:40", 
+		  "Pace": "10:33", "Age": "14", "AgePlace": "4", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "543", "Name": "Margaret Welter", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:47:27", 
+		  "Pace": "10:32", "Age": "56", "AgePlace": "3", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "544", "Name": "Angela Clark", "Gender": "F",
+		  "Hometown": "Charlestown", "FinishTime": "1:44:39", 
+		  "Pace": "10:16", "Age": "48", "AgePlace": "20", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "545", "Name": "Stevie Morrison", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:12", 
+		  "Pace": "10:13", "Age": "23", "AgePlace": "32", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "546", "Name": "Sarah Brown", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:12", 
+		  "Pace": "10:13", "Age": "26", "AgePlace": "43", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "547", "Name": "Mike Kolokowsky", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:47:36", 
+		  "Pace": "10:33", "Age": "50", "AgePlace": "25", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "548", "Name": "David Pence", "Gender": "M",
+		  "Hometown": "Campton", "FinishTime": "1:44:56", 
+		  "Pace": "10:17", "Age": "31", "AgePlace": "33", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "549", "Name": "Susanna McQueary", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:47:52", 
+		  "Pace": "10:35", "Age": "40", "AgePlace": "35", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "550", "Name": "Suzanne Shaffar", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:12", 
+		  "Pace": "10:19", "Age": "36", "AgePlace": "49", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "551", "Name": "Jeri Stracner", "Gender": "F",
+		  "Hometown": "Carlisle", "FinishTime": "1:45:35", 
+		  "Pace": "10:21", "Age": "58", "AgePlace": "4", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "552", "Name": "Chris Brockman", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:44:46", 
+		  "Pace": "10:16", "Age": "45", "AgePlace": "52", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "553", "Name": "Michael Flanigan", "Gender": "M",
+		  "Hometown": "Fountain Inn", "FinishTime": "1:49:27", 
+		  "Pace": "10:44", "Age": "60", "AgePlace": "9", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "554", "Name": "Linney Strother", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:48:33", 
+		  "Pace": "10:38", "Age": "64", "AgePlace": "10", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "555", "Name": "Hannah Ruehl", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:51", 
+		  "Pace": "10:17", "Age": "31", "AgePlace": "34", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "556", "Name": "Ellie McKinley", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:42:29", 
+		  "Pace": "10:03", "Age": "23", "AgePlace": "33", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "557", "Name": "Lauren Buckman", "Gender": "F",
+		  "Hometown": "Raywick", "FinishTime": "1:46:41", 
+		  "Pace": "10:28", "Age": "22", "AgePlace": "34", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "558", "Name": "Cindy Sebastian", "Gender": "F",
+		  "Hometown": "Murfreesboro", "FinishTime": "1:48:46", 
+		  "Pace": "10:40", "Age": "49", "AgePlace": "21", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "559", "Name": "Missy Hunt", "Gender": "F",
+		  "Hometown": "Danville", "FinishTime": "1:47:50", 
+		  "Pace": "10:34", "Age": "55", "AgePlace": "5", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "560", "Name": "Kelly King", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:39", 
+		  "Pace": "10:16", "Age": "35", "AgePlace": "50", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "561", "Name": "Larry Vaught", "Gender": "M",
+		  "Hometown": "Danville", "FinishTime": "1:47:59", 
+		  "Pace": "10:35", "Age": "64", "AgePlace": "11", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "562", "Name": "Alice Tremaine", "Gender": "F",
+		  "Hometown": "Corbin", "FinishTime": "1:48:49", 
+		  "Pace": "10:40", "Age": "36", "AgePlace": "51", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "563", "Name": "Scott Ferguson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:46:19", 
+		  "Pace": "10:25", "Age": "52", "AgePlace": "26", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "564", "Name": "Bethany Denny", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:44:54", 
+		  "Pace": "10:17", "Age": "21", "AgePlace": "35", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "565", "Name": "Eric Morton", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:46:40", 
+		  "Pace": "10:27", "Age": "39", "AgePlace": "49", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "566", "Name": "James Spurlock", "Gender": "M",
+		  "Hometown": "Nitro", "FinishTime": "1:50:20", 
+		  "Pace": "10:49", "Age": "53", "AgePlace": "27", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "567", "Name": "Alixa Sharkey", "Gender": "F",
+		  "Hometown": "Chicago", "FinishTime": "1:49:53", 
+		  "Pace": "10:46", "Age": "31", "AgePlace": "35", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "568", "Name": "Nancy Campbell", "Gender": "F",
+		  "Hometown": "Fishers", "FinishTime": "1:45:57", 
+		  "Pace": "10:23", "Age": "40", "AgePlace": "36", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "569", "Name": "Rachel Sorrell", "Gender": "F",
+		  "Hometown": "Hamilton", "FinishTime": "1:49:08", 
+		  "Pace": "10:42", "Age": "25", "AgePlace": "44", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "570", "Name": "Paul Ferrell", "Gender": "M",
+		  "Hometown": "Nicholasville", "FinishTime": "1:45:14", 
+		  "Pace": "10:19", "Age": "49", "AgePlace": "53", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "571", "Name": "Vince Dominguez", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:52:49", 
+		  "Pace": "11:04", "Age": "26", "AgePlace": "42", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "572", "Name": "Alex Lockridge", "Gender": "M",
+		  "Hometown": "Corbin", "FinishTime": "1:48:49", 
+		  "Pace": "10:40", "Age": "31", "AgePlace": "34", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "573", "Name": "Colette Plantz", "Gender": "F",
+		  "Hometown": "Des Plaines", "FinishTime": "1:47:53", 
+		  "Pace": "10:35", "Age": "55", "AgePlace": "6", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "574", "Name": "Emma Vogelsang", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:47:45", 
+		  "Pace": "10:34", "Age": "18", "AgePlace": "5", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "575", "Name": "Patricio Hernandez", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "1:47:46", 
+		  "Pace": "10:34", "Age": "31", "AgePlace": "35", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "576", "Name": "Bryan Loy", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:49:23", 
+		  "Pace": "10:43", "Age": "56", "AgePlace": "18", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "577", "Name": "Mark Leach", "Gender": "M",
+		  "Hometown": "Indianapolis", "FinishTime": "1:45:37", 
+		  "Pace": "10:21", "Age": "33", "AgePlace": "36", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "578", "Name": "Ashley Hausner", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:45:34", 
+		  "Pace": "10:21", "Age": "31", "AgePlace": "36", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "579", "Name": "Casey Lanius", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:45:32", 
+		  "Pace": "10:21", "Age": "34", "AgePlace": "37", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "580", "Name": "Jeff Marshall", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:48:25", 
+		  "Pace": "10:38", "Age": "53", "AgePlace": "28", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "581", "Name": "Lindsey Culver", "Gender": "F",
+		  "Hometown": "Oneida", "FinishTime": "1:46:30", 
+		  "Pace": "10:26", "Age": "24", "AgePlace": "36", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "582", "Name": "Bitsy Ruch", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:20", 
+		  "Pace": "10:37", "Age": "64", "AgePlace": "3", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "583", "Name": "Rene Aldrich", "Gender": "F",
+		  "Hometown": "Portland", "FinishTime": "1:46:23", 
+		  "Pace": "10:26", "Age": "36", "AgePlace": "52", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "584", "Name": "Tiffany Kincaid", "Gender": "F",
+		  "Hometown": "Stanford", "FinishTime": "", 
+		  "Pace": "", "Age": "33", "AgePlace": "37", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "585", "Name": "Rebecca Green", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:48:26", 
+		  "Pace": "10:38", "Age": "29", "AgePlace": "45", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "586", "Name": "Casey Kidson", "Gender": "F",
+		  "Hometown": "Kingston", "FinishTime": "1:48:05", 
+		  "Pace": "10:36", "Age": "28", "AgePlace": "46", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "587", "Name": "Robert Noffsinger", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:48:38", 
+		  "Pace": "10:39", "Age": "39", "AgePlace": "50", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "588", "Name": "John Scott Durbin", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:50:25", 
+		  "Pace": "10:50", "Age": "55", "AgePlace": "19", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "589", "Name": "Elliott Durbin", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:50:28", 
+		  "Pace": "10:50", "Age": "21", "AgePlace": "37", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "590", "Name": "Scott Quinlan", "Gender": "M",
+		  "Hometown": "louisville", "FinishTime": "1:49:33", 
+		  "Pace": "10:44", "Age": "53", "AgePlace": "29", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "591", "Name": "Nickita Zaveri", "Gender": "F",
+		  "Hometown": "Knoxville", "FinishTime": "1:48:33", 
+		  "Pace": "10:39", "Age": "28", "AgePlace": "47", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "592", "Name": "Courtney Shaw", "Gender": "F",
+		  "Hometown": "Tompkinsville", "FinishTime": "1:48:54", 
+		  "Pace": "10:41", "Age": "20", "AgePlace": "38", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "593", "Name": "Alicia Olsen", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:46:50", 
+		  "Pace": "10:28", "Age": "36", "AgePlace": "53", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "594", "Name": "Amy Hisel", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:48:31", 
+		  "Pace": "10:38", "Age": "55", "AgePlace": "7", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "595", "Name": "Chris Payne", "Gender": "M",
+		  "Hometown": "Franklin", "FinishTime": "1:46:26", 
+		  "Pace": "10:26", "Age": "46", "AgePlace": "54", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "596", "Name": "Joy Leonard", "Gender": "F",
+		  "Hometown": "lexington", "FinishTime": "1:51:29", 
+		  "Pace": "10:56", "Age": "42", "AgePlace": "37", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "597", "Name": "Andrea Karrick", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:49:34", 
+		  "Pace": "10:44", "Age": "35", "AgePlace": "54", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "598", "Name": "Carrie Pond", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:49:26", 
+		  "Pace": "10:44", "Age": "31", "AgePlace": "38", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "599", "Name": "Dave Correll", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:47:13", 
+		  "Pace": "10:31", "Age": "50", "AgePlace": "30", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "600", "Name": "Faye Kuosman", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:50:57", 
+		  "Pace": "10:53", "Age": "35", "AgePlace": "55", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "601", "Name": "Shelby Mattingly", "Gender": "F",
+		  "Hometown": "Bardstown", "FinishTime": "1:50:35", 
+		  "Pace": "10:51", "Age": "22", "AgePlace": "39", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "602", "Name": "Cyndi McGraw", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:24", 
+		  "Pace": "10:38", "Age": "33", "AgePlace": "39", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "603", "Name": "Jeanne Rankin", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:46:10", 
+		  "Pace": "10:24", "Age": "32", "AgePlace": "40", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "604", "Name": "Allison VandenBerg", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:49:59", 
+		  "Pace": "10:47", "Age": "19", "AgePlace": "6", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "605", "Name": "Elisabeth Coe", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:02", 
+		  "Pace": "10:36", "Age": "27", "AgePlace": "48", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "606", "Name": "Kathy Hansen", "Gender": "F",
+		  "Hometown": "Sun Prairie", "FinishTime": "1:50:09", 
+		  "Pace": "10:48", "Age": "52", "AgePlace": "18", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "607", "Name": "Richard Rosenstrom", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:53:02", 
+		  "Pace": "11:05", "Age": "50", "AgePlace": "31", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "608", "Name": "Rob Rawlings", "Gender": "M",
+		  "Hometown": "Owingsville", "FinishTime": "1:50:27", 
+		  "Pace": "10:50", "Age": "41", "AgePlace": "56", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "609", "Name": "Jenny Minier", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:49:53", 
+		  "Pace": "10:46", "Age": "46", "AgePlace": "22", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "610", "Name": "Seleslie Harris", "Gender": "F",
+		  "Hometown": "Hazard", "FinishTime": "1:49:01", 
+		  "Pace": "10:41", "Age": "37", "AgePlace": "56", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "611", "Name": "Keesha Watts", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:49:39", 
+		  "Pace": "10:45", "Age": "28", "AgePlace": "49", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "612", "Name": "Crystal Allen", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:49:42", 
+		  "Pace": "10:45", "Age": "33", "AgePlace": "41", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "613", "Name": "David Farrar", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:51:47", 
+		  "Pace": "10:58", "Age": "35", "AgePlace": "51", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "614", "Name": "Matt DeVore", "Gender": "M",
+		  "Hometown": "Clarksville", "FinishTime": "1:45:42", 
+		  "Pace": "10:22", "Age": "36", "AgePlace": "52", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "615", "Name": "John Brown", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:52:03", 
+		  "Pace": "10:59", "Age": "57", "AgePlace": "20", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "616", "Name": "Yajaira West", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:49:07", 
+		  "Pace": "10:42", "Age": "34", "AgePlace": "42", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "617", "Name": "Kathleen O'Connell", "Gender": "F",
+		  "Hometown": "Columbia", "FinishTime": "1:48:21", 
+		  "Pace": "10:37", "Age": "33", "AgePlace": "43", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "618", "Name": "Stephanie Spann", "Gender": "F",
+		  "Hometown": "Spring Hill", "FinishTime": "1:49:52", 
+		  "Pace": "10:46", "Age": "39", "AgePlace": "57", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "619", "Name": "Sondra Andrews", "Gender": "F",
+		  "Hometown": "Smyrna", "FinishTime": "1:49:53", 
+		  "Pace": "10:46", "Age": "42", "AgePlace": "38", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "620", "Name": "Patrick Frederick", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:53:57", 
+		  "Pace": "11:10", "Age": "22", "AgePlace": "14", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "621", "Name": "Sara Starks", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:51:11", 
+		  "Pace": "10:54", "Age": "28", "AgePlace": "50", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "622", "Name": "Morgan Agnew", "Gender": "F",
+		  "Hometown": "Atglen", "FinishTime": "1:50:35", 
+		  "Pace": "10:51", "Age": "28", "AgePlace": "51", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "623", "Name": "Crystal Moore", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:52:17", 
+		  "Pace": "11:00", "Age": "38", "AgePlace": "58", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "624", "Name": "Alyssa Hogan", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:53", 
+		  "Pace": "10:41", "Age": "20", "AgePlace": "40", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "625", "Name": "Reyna Nadine Akers", "Gender": "F",
+		  "Hometown": "Long Beach", "FinishTime": "1:52:17", 
+		  "Pace": "11:01", "Age": "38", "AgePlace": "59", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "626", "Name": "Kayla Bohannon", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:37", 
+		  "Pace": "10:39", "Age": "22", "AgePlace": "41", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "627", "Name": "Beth Farrar", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:51:43", 
+		  "Pace": "10:57", "Age": "29", "AgePlace": "52", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "628", "Name": "Linda Sanborn", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:59", 
+		  "Pace": "10:41", "Age": "57", "AgePlace": "8", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "629", "Name": "Alexandra Choumitsky", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:54:20", 
+		  "Pace": "11:13", "Age": "27", "AgePlace": "53", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "630", "Name": "Tom Steele", "Gender": "M",
+		  "Hometown": "West Liberty", "FinishTime": "1:49:43", 
+		  "Pace": "10:45", "Age": "57", "AgePlace": "21", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "631", "Name": "Alisa Hamilton", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:50:16", 
+		  "Pace": "10:49", "Age": "47", "AgePlace": "23", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "632", "Name": "Steele Rouse", "Gender": "M",
+		  "Hometown": "Midway", "FinishTime": "1:50:34", 
+		  "Pace": "10:50", "Age": "22", "AgePlace": "15", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "633", "Name": "Ashley Schwartz", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:50:10", 
+		  "Pace": "10:48", "Age": "30", "AgePlace": "44", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "634", "Name": "Morgan McDonald", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:49:18", 
+		  "Pace": "10:43", "Age": "33", "AgePlace": "45", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "635", "Name": "Carol Payton", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:52:58", 
+		  "Pace": "11:05", "Age": "70", "AgePlace": "1", 
+		  "AgeCategory": "F 70-74"
+		},
+		{ "Place": "636", "Name": "Jennie Pollard", "Gender": "F",
+		  "Hometown": "Berea", "FinishTime": "1:52:51", 
+		  "Pace": "11:04", "Age": "28", "AgePlace": "54", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "637", "Name": "Diana Cline", "Gender": "F",
+		  "Hometown": "Mount Sterling", "FinishTime": "1:51:26", 
+		  "Pace": "10:55", "Age": "34", "AgePlace": "46", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "638", "Name": "Gary Preece", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "1:49:28", 
+		  "Pace": "10:44", "Age": "57", "AgePlace": "22", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "639", "Name": "Amy Abbott", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:51:00", 
+		  "Pace": "10:53", "Age": "47", "AgePlace": "24", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "640", "Name": "Brandon Christy", "Gender": "M",
+		  "Hometown": "Corbin", "FinishTime": "1:50:54", 
+		  "Pace": "10:52", "Age": "38", "AgePlace": "53", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "641", "Name": "Myrisa Christy", "Gender": "F",
+		  "Hometown": "Corbin", "FinishTime": "1:50:47", 
+		  "Pace": "10:52", "Age": "37", "AgePlace": "60", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "642", "Name": "Sarah Elam", "Gender": "F",
+		  "Hometown": "Mount Sterling", "FinishTime": "1:51:23", 
+		  "Pace": "10:55", "Age": "29", "AgePlace": "55", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "643", "Name": "Tara Shrout", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:47:37", 
+		  "Pace": "10:33", "Age": "25", "AgePlace": "56", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "644", "Name": "Charles Moreland", "Gender": "M",
+		  "Hometown": "Nashville", "FinishTime": "1:48:58", 
+		  "Pace": "10:41", "Age": "53", "AgePlace": "32", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "645", "Name": "Teresa Schumann", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:50:57", 
+		  "Pace": "10:53", "Age": "25", "AgePlace": "57", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "646", "Name": "Bailey Freemire", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:50:26", 
+		  "Pace": "10:50", "Age": "23", "AgePlace": "42", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "647", "Name": "Mary Elizabeth Henton", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:51:41", 
+		  "Pace": "10:57", "Age": "30", "AgePlace": "47", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "648", "Name": "Reb Butler", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:45:51", 
+		  "Pace": "10:23", "Age": "43", "AgePlace": "57", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "649", "Name": "Christopher Dawson", "Gender": "M",
+		  "Hometown": "Ashland", "FinishTime": "1:52:05", 
+		  "Pace": "10:59", "Age": "43", "AgePlace": "58", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "650", "Name": "Benjamin Bryson", "Gender": "M",
+		  "Hometown": "Somerset", "FinishTime": "1:41:43", 
+		  "Pace": "9:58", "Age": "35", "AgePlace": "54", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "651", "Name": "John Lien", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:49:31", 
+		  "Pace": "10:44", "Age": "53", "AgePlace": "33", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "652", "Name": "Tonia Hickman", "Gender": "F",
+		  "Hometown": "Frankfort", "FinishTime": "1:52:58", 
+		  "Pace": "11:05", "Age": "48", "AgePlace": "25", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "653", "Name": "Eunyi Kirst", "Gender": "F",
+		  "Hometown": "California", "FinishTime": "1:54:30", 
+		  "Pace": "11:14", "Age": "30", "AgePlace": "48", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "654", "Name": "Troy Von", "Gender": "M",
+		  "Hometown": "Danville", "FinishTime": "1:51:10", 
+		  "Pace": "10:54", "Age": "51", "AgePlace": "34", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "655", "Name": "Baxter Napier", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:51:30", 
+		  "Pace": "10:56", "Age": "62", "AgePlace": "12", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "656", "Name": "Kristy Hall", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:53:30", 
+		  "Pace": "11:08", "Age": "37", "AgePlace": "61", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "657", "Name": "Shannon Reagan", "Gender": "F",
+		  "Hometown": "Walton", "FinishTime": "1:52:14", 
+		  "Pace": "11:00", "Age": "37", "AgePlace": "62", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "658", "Name": "Bruce Crowe", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:51:05", 
+		  "Pace": "10:53", "Age": "52", "AgePlace": "35", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "659", "Name": "Shannon James", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:56:32", 
+		  "Pace": "11:25", "Age": "41", "AgePlace": "39", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "660", "Name": "Shannon Elam", "Gender": "M",
+		  "Hometown": "West Liberty", "FinishTime": "1:51:21", 
+		  "Pace": "10:55", "Age": "45", "AgePlace": "55", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "661", "Name": "Stephen Hamilton", "Gender": "M",
+		  "Hometown": "Cynthiana", "FinishTime": "1:49:48", 
+		  "Pace": "10:46", "Age": "50", "AgePlace": "36", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "662", "Name": "Guy Spalding", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:53:02", 
+		  "Pace": "11:05", "Age": "63", "AgePlace": "13", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "663", "Name": "Jennifer Fights", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:53:27", 
+		  "Pace": "11:07", "Age": "47", "AgePlace": "26", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "664", "Name": "Keith Blasing", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:48:23", 
+		  "Pace": "10:38", "Age": "42", "AgePlace": "59", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "665", "Name": "Danielle Doth", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:56:25", 
+		  "Pace": "11:25", "Age": "33", "AgePlace": "49", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "666", "Name": "Shellena Harmon", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:44", 
+		  "Pace": "10:40", "Age": "35", "AgePlace": "63", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "667", "Name": "Nancy Webb", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:56:49", 
+		  "Pace": "11:27", "Age": "57", "AgePlace": "9", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "668", "Name": "Rick Carr", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "1:52:08", 
+		  "Pace": "11:00", "Age": "41", "AgePlace": "60", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "669", "Name": "John VandenBerg", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:52:50", 
+		  "Pace": "11:04", "Age": "49", "AgePlace": "56", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "670", "Name": "Jordan Clark", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "1:53:46", 
+		  "Pace": "11:09", "Age": "28", "AgePlace": "58", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "671", "Name": "Tanya Roberts", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:54:11", 
+		  "Pace": "11:12", "Age": "43", "AgePlace": "40", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "672", "Name": "Tuyet Nguyen", "Gender": "F",
+		  "Hometown": "Morrow", "FinishTime": "1:57:51", 
+		  "Pace": "11:33", "Age": "31", "AgePlace": "50", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "673", "Name": "Daniel King", "Gender": "M",
+		  "Hometown": "Nicholasville", "FinishTime": "1:53:55", 
+		  "Pace": "11:10", "Age": "36", "AgePlace": "55", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "674", "Name": "Maja Redzic", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:54:39", 
+		  "Pace": "11:14", "Age": "28", "AgePlace": "59", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "675", "Name": "Amy Latimer", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:54:37", 
+		  "Pace": "11:14", "Age": "30", "AgePlace": "51", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "676", "Name": "Deborah Slone", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:54:37", 
+		  "Pace": "11:14", "Age": "33", "AgePlace": "52", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "677", "Name": "Sarah Cloutier", "Gender": "F",
+		  "Hometown": "Elizabethtown", "FinishTime": "1:53:48", 
+		  "Pace": "11:09", "Age": "31", "AgePlace": "53", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "678", "Name": "Chad Cloutier", "Gender": "M",
+		  "Hometown": "Elizabethtown", "FinishTime": "1:53:51", 
+		  "Pace": "11:10", "Age": "43", "AgePlace": "61", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "679", "Name": "Brett Jessie", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:50:56", 
+		  "Pace": "10:53", "Age": "26", "AgePlace": "43", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "680", "Name": "Jerome Maynard", "Gender": "M",
+		  "Hometown": "Pikeville", "FinishTime": "1:48:09", 
+		  "Pace": "10:36", "Age": "56", "AgePlace": "23", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "681", "Name": "Katherine Menk", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:55:14", 
+		  "Pace": "11:18", "Age": "37", "AgePlace": "64", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "682", "Name": "Eden Case", "Gender": "F",
+		  "Hometown": "Berea", "FinishTime": "1:54:40", 
+		  "Pace": "11:14", "Age": "38", "AgePlace": "65", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "683", "Name": "Diane Zipko", "Gender": "F",
+		  "Hometown": "Oxford", "FinishTime": "1:55:19", 
+		  "Pace": "11:18", "Age": "58", "AgePlace": "10", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "684", "Name": "Dreama Hedrick", "Gender": "F",
+		  "Hometown": "Corbin", "FinishTime": "1:55:08", 
+		  "Pace": "11:17", "Age": "42", "AgePlace": "41", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "685", "Name": "Courtney Jones", "Gender": "M",
+		  "Hometown": "Cape Coral", "FinishTime": "1:54:49", 
+		  "Pace": "11:15", "Age": "46", "AgePlace": "57", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "686", "Name": "Liliana Gonzalez", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:55:25", 
+		  "Pace": "11:19", "Age": "32", "AgePlace": "54", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "687", "Name": "RONNIE CORMAN", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:56:13", 
+		  "Pace": "11:24", "Age": "47", "AgePlace": "58", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "688", "Name": "Susie Skaggs", "Gender": "F",
+		  "Hometown": "Campbellsville", "FinishTime": "1:57:21", 
+		  "Pace": "11:30", "Age": "59", "AgePlace": "11", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "689", "Name": "Mindy Maxey", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:56:47", 
+		  "Pace": "11:27", "Age": "41", "AgePlace": "42", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "690", "Name": "Jessica Jones", "Gender": "F",
+		  "Hometown": "Tecumseh", "FinishTime": "1:54:22", 
+		  "Pace": "11:13", "Age": "35", "AgePlace": "66", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "691", "Name": "Stephanie Morris", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "", 
+		  "Pace": "", "Age": "46", "AgePlace": "59", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "692", "Name": "Julie Oestreich", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:00:41", 
+		  "Pace": "11:50", "Age": "36", "AgePlace": "67", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "693", "Name": "Mona Brown", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:57:37", 
+		  "Pace": "11:32", "Age": "47", "AgePlace": "27", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "694", "Name": "Caroline Kern", "Gender": "F",
+		  "Hometown": "Cynthiana", "FinishTime": "1:57:37", 
+		  "Pace": "11:32", "Age": "44", "AgePlace": "43", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "695", "Name": "Ashley Bruggeman", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:56:52", 
+		  "Pace": "11:27", "Age": "35", "AgePlace": "68", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "696", "Name": "Pam Current", "Gender": "F",
+		  "Hometown": "Piqua", "FinishTime": "1:57:23", 
+		  "Pace": "11:30", "Age": "47", "AgePlace": "28", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "697", "Name": "Tiffany Pierce", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:54:45", 
+		  "Pace": "11:15", "Age": "30", "AgePlace": "55", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "698", "Name": "Jen Heffernan", "Gender": "F",
+		  "Hometown": "Bowling Green", "FinishTime": "2:00:45", 
+		  "Pace": "11:50", "Age": "36", "AgePlace": "69", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "699", "Name": "Chase Tucker", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:54:00", 
+		  "Pace": "11:11", "Age": "27", "AgePlace": "44", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "700", "Name": "Robert Sbert", "Gender": "M",
+		  "Hometown": "Winchester", "FinishTime": "1:55:49", 
+		  "Pace": "11:21", "Age": "45", "AgePlace": "60", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "701", "Name": "Rebecca Roar", "Gender": "F",
+		  "Hometown": "Olive Hill", "FinishTime": "1:55:54", 
+		  "Pace": "11:22", "Age": "31", "AgePlace": "56", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "702", "Name": "Annette DiToma", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:55:13", 
+		  "Pace": "11:18", "Age": "29", "AgePlace": "60", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "703", "Name": "Jodi Overstreet", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:57:47", 
+		  "Pace": "11:33", "Age": "23", "AgePlace": "43", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "704", "Name": "Lesley Bowen", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:56:28", 
+		  "Pace": "11:25", "Age": "54", "AgePlace": "19", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "705", "Name": "Harold Kouns Jr", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:54:02", 
+		  "Pace": "11:11", "Age": "39", "AgePlace": "56", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "706", "Name": "JON MAYNARD", "Gender": "M",
+		  "Hometown": "Midway", "FinishTime": "1:50:14", 
+		  "Pace": "10:48", "Age": "35", "AgePlace": "57", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "707", "Name": "James Morris", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:56:23", 
+		  "Pace": "11:25", "Age": "46", "AgePlace": "61", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "708", "Name": "Leslie Scott", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:55:34", 
+		  "Pace": "11:20", "Age": "48", "AgePlace": "29", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "709", "Name": "Marcy Dickson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:48:07", 
+		  "Pace": "10:36", "Age": "33", "AgePlace": "57", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "710", "Name": "Jody Franklin", "Gender": "F",
+		  "Hometown": "West Liberty", "FinishTime": "1:55:16", 
+		  "Pace": "11:18", "Age": "41", "AgePlace": "44", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "711", "Name": "Emily Everman", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:55:04", 
+		  "Pace": "11:17", "Age": "19", "AgePlace": "7", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "712", "Name": "Tammy Wallace", "Gender": "F",
+		  "Hometown": "Ariton", "FinishTime": "1:57:20", 
+		  "Pace": "11:30", "Age": "37", "AgePlace": "70", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "713", "Name": "Veronica Diaz", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:53:13", 
+		  "Pace": "11:06", "Age": "44", "AgePlace": "45", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "714", "Name": "JESSICA RENFROE", "Gender": "F",
+		  "Hometown": "San Antonio", "FinishTime": "1:56:25", 
+		  "Pace": "11:25", "Age": "40", "AgePlace": "46", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "715", "Name": "Connie Ison", "Gender": "F",
+		  "Hometown": "Prospect", "FinishTime": "1:56:16", 
+		  "Pace": "11:24", "Age": "53", "AgePlace": "20", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "716", "Name": "Jennifer Wright", "Gender": "F",
+		  "Hometown": "Prospect", "FinishTime": "1:56:16", 
+		  "Pace": "11:24", "Age": "44", "AgePlace": "47", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "717", "Name": "Amy Hughes", "Gender": "F",
+		  "Hometown": "Richmond", "FinishTime": "1:56:07", 
+		  "Pace": "11:23", "Age": "46", "AgePlace": "30", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "718", "Name": "Maryn Zipko", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:57:26", 
+		  "Pace": "11:31", "Age": "23", "AgePlace": "44", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "719", "Name": "Alanah Wood", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:55:19", 
+		  "Pace": "11:18", "Age": "27", "AgePlace": "61", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "720", "Name": "Sherry Peavler", "Gender": "F",
+		  "Hometown": "Harrodsburg", "FinishTime": "1:57:33", 
+		  "Pace": "11:31", "Age": "37", "AgePlace": "71", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "721", "Name": "Morgan White", "Gender": "F",
+		  "Hometown": "Harrodsburg", "FinishTime": "1:57:34", 
+		  "Pace": "11:32", "Age": "27", "AgePlace": "62", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "722", "Name": "Eric Marcotte", "Gender": "M",
+		  "Hometown": "Paris", "FinishTime": "1:58:59", 
+		  "Pace": "11:40", "Age": "38", "AgePlace": "58", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "723", "Name": "LeRoy Sanborn", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:54:57", 
+		  "Pace": "11:16", "Age": "74", "AgePlace": "2", 
+		  "AgeCategory": "M 70-74"
+		},
+		{ "Place": "724", "Name": "Sharon Bach", "Gender": "F",
+		  "Hometown": "Raywick", "FinishTime": "2:05:56", 
+		  "Pace": "12:21", "Age": "47", "AgePlace": "31", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "725", "Name": "Joshua T Cromer", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:48:15", 
+		  "Pace": "10:37", "Age": "40", "AgePlace": "62", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "726", "Name": "Dylan Schatko", "Gender": "M",
+		  "Hometown": "Wilmore", "FinishTime": "1:48:16", 
+		  "Pace": "10:37", "Age": "26", "AgePlace": "45", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "727", "Name": "Alison Salyer", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:58:22", 
+		  "Pace": "11:36", "Age": "38", "AgePlace": "72", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "728", "Name": "Ellen Rosenstrom", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "1:56:54", 
+		  "Pace": "11:28", "Age": "49", "AgePlace": "32", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "729", "Name": "David Flynn", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:59:00", 
+		  "Pace": "11:40", "Age": "65", "AgePlace": "10", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "730", "Name": "Chris Christensen", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:55:31", 
+		  "Pace": "11:20", "Age": "46", "AgePlace": "62", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "731", "Name": "Todd Caldwell", "Gender": "M",
+		  "Hometown": "Midway", "FinishTime": "1:57:52", 
+		  "Pace": "11:33", "Age": "43", "AgePlace": "63", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "732", "Name": "Melinda Caldwell", "Gender": "F",
+		  "Hometown": "Midway", "FinishTime": "1:57:55", 
+		  "Pace": "11:34", "Age": "42", "AgePlace": "48", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "733", "Name": "Kim Montgomery", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:59:35", 
+		  "Pace": "11:43", "Age": "55", "AgePlace": "12", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "734", "Name": "Sherry Marcotte", "Gender": "F",
+		  "Hometown": "Paris", "FinishTime": "1:59:17", 
+		  "Pace": "11:42", "Age": "34", "AgePlace": "58", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "735", "Name": "Rose Martin", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:01:29", 
+		  "Pace": "11:55", "Age": "58", "AgePlace": "13", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "736", "Name": "Kaitlin Waterfield", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:58:39", 
+		  "Pace": "11:38", "Age": "28", "AgePlace": "63", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "737", "Name": "RYAN BARNES", "Gender": "M",
+		  "Hometown": "Irvine", "FinishTime": "1:58:21", 
+		  "Pace": "11:36", "Age": "38", "AgePlace": "59", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "738", "Name": "Michael Bauer", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "2:00:44", 
+		  "Pace": "11:50", "Age": "62", "AgePlace": "14", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "739", "Name": "Christian Kessinger", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "1:58:00", 
+		  "Pace": "11:34", "Age": "43", "AgePlace": "64", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "740", "Name": "Stephen Sizemore", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:56:13", 
+		  "Pace": "11:24", "Age": "46", "AgePlace": "63", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "741", "Name": "Stacey Williams", "Gender": "F",
+		  "Hometown": "Sadiville", "FinishTime": "2:00:40", 
+		  "Pace": "11:50", "Age": "41", "AgePlace": "49", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "742", "Name": "Mary Stewart White", "Gender": "F",
+		  "Hometown": "Paris", "FinishTime": "1:58:32", 
+		  "Pace": "11:37", "Age": "27", "AgePlace": "64", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "743", "Name": "Darrell Whiteman", "Gender": "M",
+		  "Hometown": "Norcross", "FinishTime": "1:59:34", 
+		  "Pace": "11:43", "Age": "69", "AgePlace": "11", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "744", "Name": "Stacy Florence", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:59:57", 
+		  "Pace": "11:46", "Age": "47", "AgePlace": "33", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "745", "Name": "Gina Baldwin", "Gender": "F",
+		  "Hometown": "Richmond", "FinishTime": "1:59:54", 
+		  "Pace": "11:45", "Age": "44", "AgePlace": "50", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "746", "Name": "Sheryl Fisher", "Gender": "F",
+		  "Hometown": "Sadieville", "FinishTime": "2:01:15", 
+		  "Pace": "11:53", "Age": "51", "AgePlace": "21", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "747", "Name": "Trevor Hemsley", "Gender": "M",
+		  "Hometown": "Mount Vernon", "FinishTime": "1:56:53", 
+		  "Pace": "11:28", "Age": "50", "AgePlace": "37", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "748", "Name": "Wayne Haddix", "Gender": "M",
+		  "Hometown": "Saint Charles", "FinishTime": "1:57:06", 
+		  "Pace": "11:29", "Age": "47", "AgePlace": "64", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "749", "Name": "Heather Dando", "Gender": "F",
+		  "Hometown": "Russell Springs", "FinishTime": "1:59:05", 
+		  "Pace": "11:41", "Age": "44", "AgePlace": "51", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "750", "Name": "Melissa Rankin", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:00:04", 
+		  "Pace": "11:46", "Age": "26", "AgePlace": "65", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "751", "Name": "Samantha Correll", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:57:18", 
+		  "Pace": "11:30", "Age": "21", "AgePlace": "45", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "752", "Name": "Karissa Kornegay", "Gender": "F",
+		  "Hometown": "jonestown", "FinishTime": "2:00:09", 
+		  "Pace": "11:47", "Age": "52", "AgePlace": "22", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "753", "Name": "Leslie Busby", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:59:37", 
+		  "Pace": "11:44", "Age": "43", "AgePlace": "52", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "754", "Name": "Christopher Hilbert", "Gender": "M",
+		  "Hometown": "Somerset", "FinishTime": "1:56:15", 
+		  "Pace": "11:24", "Age": "30", "AgePlace": "38", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "755", "Name": "Wendy Crowe", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:59:18", 
+		  "Pace": "11:42", "Age": "48", "AgePlace": "34", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "756", "Name": "Rachel Pardee", "Gender": "F",
+		  "Hometown": "Crestwood", "FinishTime": "1:59:21", 
+		  "Pace": "11:42", "Age": "24", "AgePlace": "46", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "757", "Name": "Laura Vineyard", "Gender": "F",
+		  "Hometown": "Harrodsburg", "FinishTime": "1:59:18", 
+		  "Pace": "11:42", "Age": "24", "AgePlace": "47", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "758", "Name": "Nathan Rover", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "2:01:06", 
+		  "Pace": "11:52", "Age": "33", "AgePlace": "39", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "759", "Name": "Amy Morrow", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:01:15", 
+		  "Pace": "11:53", "Age": "40", "AgePlace": "53", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "760", "Name": "Joseph Moore", "Gender": "M",
+		  "Hometown": "Melbourne", "FinishTime": "1:57:27", 
+		  "Pace": "11:31", "Age": "23", "AgePlace": "16", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "761", "Name": "Katie Cloninger", "Gender": "F",
+		  "Hometown": "Shelbyville", "FinishTime": "2:01:10", 
+		  "Pace": "11:53", "Age": "38", "AgePlace": "73", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "762", "Name": "Anna Billhymer", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:58:33", 
+		  "Pace": "11:37", "Age": "20", "AgePlace": "48", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "763", "Name": "Maria Bryan", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:01:25", 
+		  "Pace": "11:54", "Age": "49", "AgePlace": "35", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "764", "Name": "Zach Dail", "Gender": "M",
+		  "Hometown": "Paris", "FinishTime": "1:58:20", 
+		  "Pace": "11:36", "Age": "33", "AgePlace": "40", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "765", "Name": "Tiffany Dail", "Gender": "F",
+		  "Hometown": "Paris", "FinishTime": "1:58:10", 
+		  "Pace": "11:35", "Age": "33", "AgePlace": "59", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "766", "Name": "Kathy Pfouts", "Gender": "F",
+		  "Hometown": "Smithfield", "FinishTime": "1:59:23", 
+		  "Pace": "11:42", "Age": "57", "AgePlace": "14", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "767", "Name": "Angie Haines", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:01:13", 
+		  "Pace": "11:53", "Age": "39", "AgePlace": "74", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "768", "Name": "Kevin Allen", "Gender": "M",
+		  "Hometown": "Fort Thomas", "FinishTime": "1:59:19", 
+		  "Pace": "11:42", "Age": "37", "AgePlace": "60", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "769", "Name": "Stephanie Allen", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "1:59:32", 
+		  "Pace": "11:43", "Age": "33", "AgePlace": "60", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "770", "Name": "Greg Barnes", "Gender": "M",
+		  "Hometown": "Frankfort", "FinishTime": "1:59:58", 
+		  "Pace": "11:46", "Age": "56", "AgePlace": "24", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "771", "Name": "Andrea Cunningham", "Gender": "F",
+		  "Hometown": "Hurricane", "FinishTime": "2:03:17", 
+		  "Pace": "12:05", "Age": "36", "AgePlace": "75", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "772", "Name": "Katie Long", "Gender": "F",
+		  "Hometown": "Campbellsville", "FinishTime": "2:03:44", 
+		  "Pace": "12:08", "Age": "21", "AgePlace": "49", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "773", "Name": "Ernie Peel", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:04:16", 
+		  "Pace": "12:11", "Age": "65", "AgePlace": "12", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "774", "Name": "Reny De Leeuw", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "1:53:17", 
+		  "Pace": "11:06", "Age": "52", "AgePlace": "23", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "775", "Name": "Rodney McMullen", "Gender": "M",
+		  "Hometown": "Cincinnati", "FinishTime": "2:00:36", 
+		  "Pace": "11:49", "Age": "56", "AgePlace": "25", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "776", "Name": "Bobby Sparkman", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:00:43", 
+		  "Pace": "11:50", "Age": "37", "AgePlace": "76", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "777", "Name": "Kristin Wheatley", "Gender": "F",
+		  "Hometown": "Greensburg", "FinishTime": "2:02:54", 
+		  "Pace": "12:03", "Age": "34", "AgePlace": "61", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "778", "Name": "Susan Wise", "Gender": "F",
+		  "Hometown": "Campbellsville", "FinishTime": "2:02:53", 
+		  "Pace": "12:03", "Age": "48", "AgePlace": "36", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "779", "Name": "Andrea Richardson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:59:58", 
+		  "Pace": "11:46", "Age": "35", "AgePlace": "77", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "780", "Name": "Nikki Cooper", "Gender": "F",
+		  "Hometown": "Berea", "FinishTime": "2:00:03", 
+		  "Pace": "11:46", "Age": "42", "AgePlace": "54", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "781", "Name": "Tatyanna Muhs", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:01:21", 
+		  "Pace": "11:54", "Age": "23", "AgePlace": "50", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "782", "Name": "James Brammell", "Gender": "M",
+		  "Hometown": "New Castle", "FinishTime": "2:02:38", 
+		  "Pace": "12:01", "Age": "56", "AgePlace": "26", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "783", "Name": "Sarah Slack", "Gender": "F",
+		  "Hometown": "Guthrie", "FinishTime": "2:02:38", 
+		  "Pace": "12:01", "Age": "70", "AgePlace": "2", 
+		  "AgeCategory": "F 70-74"
+		},
+		{ "Place": "784", "Name": "MIKE WATTS", "Gender": "M",
+		  "Hometown": "Pewee Valley", "FinishTime": "2:05:46", 
+		  "Pace": "12:20", "Age": "51", "AgePlace": "38", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "785", "Name": "Brandon Holt", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:07:29", 
+		  "Pace": "12:30", "Age": "35", "AgePlace": "61", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "786", "Name": "Jason Sawyer", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "2:04:42", 
+		  "Pace": "12:13", "Age": "45", "AgePlace": "65", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "787", "Name": "Sue Weathers", "Gender": "F",
+		  "Hometown": "Elkton", "FinishTime": "2:01:52", 
+		  "Pace": "11:57", "Age": "65", "AgePlace": "3", 
+		  "AgeCategory": "F 65-69"
+		},
+		{ "Place": "788", "Name": "Missi Hamele", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:03:15", 
+		  "Pace": "12:05", "Age": "42", "AgePlace": "55", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "789", "Name": "Christine Mikesell", "Gender": "F",
+		  "Hometown": "Saint Albans", "FinishTime": "2:05:30", 
+		  "Pace": "12:18", "Age": "46", "AgePlace": "37", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "790", "Name": "Casandra Brown", "Gender": "F",
+		  "Hometown": "Somerset", "FinishTime": "2:02:51", 
+		  "Pace": "12:03", "Age": "34", "AgePlace": "62", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "791", "Name": "Steven Dennis", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:04:26", 
+		  "Pace": "12:12", "Age": "55", "AgePlace": "27", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "792", "Name": "Blanca Dennis", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:04:32", 
+		  "Pace": "12:13", "Age": "48", "AgePlace": "38", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "793", "Name": "Elizabeth Coleman", "Gender": "F",
+		  "Hometown": "Lawrenceburg", "FinishTime": "2:00:25", 
+		  "Pace": "11:48", "Age": "55", "AgePlace": "15", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "794", "Name": "Amber Barber", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:05:52", 
+		  "Pace": "12:20", "Age": "36", "AgePlace": "78", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "795", "Name": "Austin Anderson", "Gender": "M",
+		  "Hometown": "Corinth", "FinishTime": "2:00:37", 
+		  "Pace": "11:49", "Age": "19", "AgePlace": "4", 
+		  "AgeCategory": "M 14-19"
+		},
+		{ "Place": "796", "Name": "Melinda Wofford", "Gender": "F",
+		  "Hometown": "Burgin", "FinishTime": "2:05:52", 
+		  "Pace": "12:20", "Age": "43", "AgePlace": "56", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "797", "Name": "April Johnson", "Gender": "F",
+		  "Hometown": "College Grove", "FinishTime": "2:09:12", 
+		  "Pace": "12:40", "Age": "41", "AgePlace": "57", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "798", "Name": "Alison Edwards", "Gender": "F",
+		  "Hometown": "Columbus", "FinishTime": "1:54:47", 
+		  "Pace": "11:15", "Age": "38", "AgePlace": "79", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "799", "Name": "Regina Tucker", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:05:38", 
+		  "Pace": "12:19", "Age": "25", "AgePlace": "66", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "800", "Name": "Marilyn Townsend", "Gender": "F",
+		  "Hometown": "Mount Sterling", "FinishTime": "2:04:53", 
+		  "Pace": "12:15", "Age": "59", "AgePlace": "16", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "801", "Name": "Nina Behaderovic", "Gender": "F",
+		  "Hometown": "Coxs Creek", "FinishTime": "2:03:12", 
+		  "Pace": "12:05", "Age": "26", "AgePlace": "67", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "802", "Name": "Makala Letsche", "Gender": "F",
+		  "Hometown": "Falcon", "FinishTime": "2:06:10", 
+		  "Pace": "12:22", "Age": "41", "AgePlace": "58", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "803", "Name": "JoEllen McComb", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:04:25", 
+		  "Pace": "12:12", "Age": "64", "AgePlace": "4", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "804", "Name": "Jenny Miles", "Gender": "F",
+		  "Hometown": "lexington", "FinishTime": "2:01:05", 
+		  "Pace": "11:52", "Age": "41", "AgePlace": "59", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "805", "Name": "Tracy Fischer", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "2:01:10", 
+		  "Pace": "11:53", "Age": "45", "AgePlace": "39", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "806", "Name": "Brian Devers", "Gender": "M",
+		  "Hometown": "Anderson", "FinishTime": "2:08:01", 
+		  "Pace": "12:33", "Age": "42", "AgePlace": "65", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "807", "Name": "Karyl Mullins", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:04:44", 
+		  "Pace": "12:14", "Age": "38", "AgePlace": "80", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "808", "Name": "Janna Neltner", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:03:28", 
+		  "Pace": "12:06", "Age": "37", "AgePlace": "81", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "809", "Name": "Stacey Payne", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:07:54", 
+		  "Pace": "12:32", "Age": "39", "AgePlace": "82", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "810", "Name": "Laura Riley", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:02:21", 
+		  "Pace": "12:00", "Age": "40", "AgePlace": "60", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "811", "Name": "John Payne", "Gender": "M",
+		  "Hometown": "Berea", "FinishTime": "2:05:36", 
+		  "Pace": "12:19", "Age": "43", "AgePlace": "66", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "812", "Name": "Ron Wyatt", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "2:01:40", 
+		  "Pace": "11:56", "Age": "46", "AgePlace": "66", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "813", "Name": "Natalie Wyatt", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "2:01:32", 
+		  "Pace": "11:55", "Age": "46", "AgePlace": "40", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "814", "Name": "Jason Burkybile", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:56:57", 
+		  "Pace": "11:28", "Age": "36", "AgePlace": "62", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "815", "Name": "Jessica Tzou", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "1:56:54", 
+		  "Pace": "11:28", "Age": "33", "AgePlace": "63", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "816", "Name": "James Cooper", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "2:06:51", 
+		  "Pace": "12:26", "Age": "35", "AgePlace": "63", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "817", "Name": "Kathryn Rudolph", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:07:43", 
+		  "Pace": "12:31", "Age": "32", "AgePlace": "64", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "818", "Name": "James Waddell", "Gender": "M",
+		  "Hometown": "Ft Mitchell", "FinishTime": "2:04:38", 
+		  "Pace": "12:13", "Age": "56", "AgePlace": "28", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "819", "Name": "Rebecca Pinson", "Gender": "F",
+		  "Hometown": "Campbellsville", "FinishTime": "2:11:03", 
+		  "Pace": "12:51", "Age": "39", "AgePlace": "83", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "820", "Name": "Juli Hutson", "Gender": "F",
+		  "Hometown": "Floyds Knobs", "FinishTime": "2:01:34", 
+		  "Pace": "11:55", "Age": "57", "AgePlace": "17", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "821", "Name": "Julie Riddell", "Gender": "F",
+		  "Hometown": "South Fulton", "FinishTime": "2:07:34", 
+		  "Pace": "12:30", "Age": "34", "AgePlace": "65", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "822", "Name": "William Codey", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "2:03:27", 
+		  "Pace": "12:06", "Age": "57", "AgePlace": "29", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "823", "Name": "Vilma Bursac", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:05:47", 
+		  "Pace": "12:20", "Age": "24", "AgePlace": "51", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "824", "Name": "Laura Burke", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:07:26", 
+		  "Pace": "12:30", "Age": "52", "AgePlace": "24", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "825", "Name": "JILL PRITCHARD", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "2:07:22", 
+		  "Pace": "12:29", "Age": "50", "AgePlace": "25", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "826", "Name": "Laura Boyle", "Gender": "F",
+		  "Hometown": "Cincinnati", "FinishTime": "2:07:37", 
+		  "Pace": "12:31", "Age": "38", "AgePlace": "84", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "827", "Name": "Sean Boyle", "Gender": "M",
+		  "Hometown": "Cincinnati", "FinishTime": "2:07:37", 
+		  "Pace": "12:31", "Age": "38", "AgePlace": "64", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "828", "Name": "LAURA MORCUS", "Gender": "F",
+		  "Hometown": "LEXINGTON", "FinishTime": "2:05:39", 
+		  "Pace": "12:19", "Age": "44", "AgePlace": "61", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "829", "Name": "Ryan Laudenschlager", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:05:10", 
+		  "Pace": "12:16", "Age": "34", "AgePlace": "41", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "830", "Name": "Mary Hamner", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:05:27", 
+		  "Pace": "12:18", "Age": "36", "AgePlace": "85", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "831", "Name": "Alyssa Young", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:04:36", 
+		  "Pace": "12:13", "Age": "21", "AgePlace": "52", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "832", "Name": "Chris Miara", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:09:14", 
+		  "Pace": "12:40", "Age": "61", "AgePlace": "5", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "833", "Name": "Margaret Snow", "Gender": "F",
+		  "Hometown": "Concord", "FinishTime": "2:11:01", 
+		  "Pace": "12:51", "Age": "68", "AgePlace": "4", 
+		  "AgeCategory": "F 65-69"
+		},
+		{ "Place": "834", "Name": "Joseph Snow", "Gender": "M",
+		  "Hometown": "Concord", "FinishTime": "2:10:47", 
+		  "Pace": "12:49", "Age": "65", "AgePlace": "13", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "835", "Name": "Carolyn Johnson", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "2:06:17", 
+		  "Pace": "12:23", "Age": "54", "AgePlace": "26", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "836", "Name": "Stephen Johnson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:06:15", 
+		  "Pace": "12:23", "Age": "27", "AgePlace": "46", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "837", "Name": "Scott Tanselle", "Gender": "M",
+		  "Hometown": "Mt. Washington", "FinishTime": "2:07:17", 
+		  "Pace": "12:29", "Age": "52", "AgePlace": "39", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "838", "Name": "Crystal Amburgey", "Gender": "F",
+		  "Hometown": "Mount Sterling", "FinishTime": "2:09:15", 
+		  "Pace": "12:40", "Age": "39", "AgePlace": "86", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "839", "Name": "Anna McDonald", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:09:34", 
+		  "Pace": "12:42", "Age": "19", "AgePlace": "8", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "840", "Name": "Cooper Cason", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:09:36", 
+		  "Pace": "12:42", "Age": "20", "AgePlace": "17", 
+		  "AgeCategory": "M 20-24"
+		},
+		{ "Place": "841", "Name": "John McDonald", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "1:48:31", 
+		  "Pace": "10:38", "Age": "56", "AgePlace": "30", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "842", "Name": "Daniela Ruiz", "Gender": "F",
+		  "Hometown": "Lancaster", "FinishTime": "2:07:46", 
+		  "Pace": "12:32", "Age": "26", "AgePlace": "68", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "843", "Name": "Jennifer Storms", "Gender": "F",
+		  "Hometown": "Tallahassee", "FinishTime": "2:07:28", 
+		  "Pace": "12:30", "Age": "47", "AgePlace": "41", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "844", "Name": "Carol McClughen", "Gender": "F",
+		  "Hometown": "Mahomet", "FinishTime": "2:10:28", 
+		  "Pace": "12:47", "Age": "63", "AgePlace": "6", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "845", "Name": "Joidie Middleton", "Gender": "F",
+		  "Hometown": "Morehead", "FinishTime": "2:08:17", 
+		  "Pace": "12:35", "Age": "47", "AgePlace": "42", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "846", "Name": "Laura White-Brown", "Gender": "F",
+		  "Hometown": "Morehead", "FinishTime": "2:08:17", 
+		  "Pace": "12:35", "Age": "27", "AgePlace": "69", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "847", "Name": "John Hill", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:08:50", 
+		  "Pace": "12:38", "Age": "33", "AgePlace": "42", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "848", "Name": "Brice Kittinger", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:15:14", 
+		  "Pace": "13:15", "Age": "26", "AgePlace": "47", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "849", "Name": "Lindsey Sanquenetti", "Gender": "F",
+		  "Hometown": "Paris", "FinishTime": "2:11:16", 
+		  "Pace": "12:52", "Age": "35", "AgePlace": "87", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "850", "Name": "Ty Dickson", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:15:24", 
+		  "Pace": "13:16", "Age": "33", "AgePlace": "43", 
+		  "AgeCategory": "M 30-34"
+		},
+		{ "Place": "851", "Name": "Julie Rupert", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:11:05", 
+		  "Pace": "12:51", "Age": "59", "AgePlace": "18", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "852", "Name": "Linda Hood", "Gender": "F",
+		  "Hometown": "Greenville", "FinishTime": "2:11:30", 
+		  "Pace": "12:54", "Age": "57", "AgePlace": "19", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "853", "Name": "Anne Sullivan", "Gender": "F",
+		  "Hometown": "Simpsonville", "FinishTime": "2:12:34", 
+		  "Pace": "13:00", "Age": "59", "AgePlace": "20", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "854", "Name": "DeeDee Tobe", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:10:36", 
+		  "Pace": "12:48", "Age": "52", "AgePlace": "27", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "855", "Name": "Molly Carr", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "2:11:18", 
+		  "Pace": "12:52", "Age": "40", "AgePlace": "62", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "856", "Name": "Shannon Hart", "Gender": "F",
+		  "Hometown": "Spring Hill", "FinishTime": "2:11:25", 
+		  "Pace": "12:53", "Age": "39", "AgePlace": "88", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "857", "Name": "Madeline Rivera", "Gender": "F",
+		  "Hometown": "Rineyville", "FinishTime": "2:12:33", 
+		  "Pace": "13:00", "Age": "44", "AgePlace": "63", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "858", "Name": "Richard Kimball", "Gender": "M",
+		  "Hometown": "Charleston", "FinishTime": "2:10:30", 
+		  "Pace": "12:48", "Age": "62", "AgePlace": "15", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "859", "Name": "Eric Kimball", "Gender": "M",
+		  "Hometown": "La Porte", "FinishTime": "2:10:21", 
+		  "Pace": "12:47", "Age": "61", "AgePlace": "16", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "860", "Name": "Andrea Musselman", "Gender": "F",
+		  "Hometown": "Rineyville", "FinishTime": "2:12:33", 
+		  "Pace": "13:00", "Age": "43", "AgePlace": "64", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "861", "Name": "Michelle Wagers", "Gender": "F",
+		  "Hometown": "Manchester", "FinishTime": "2:12:07", 
+		  "Pace": "12:57", "Age": "44", "AgePlace": "65", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "862", "Name": "Kelsey Fulkerson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:11:05", 
+		  "Pace": "12:51", "Age": "27", "AgePlace": "70", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "863", "Name": "Erin Hall", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:11:03", 
+		  "Pace": "12:51", "Age": "29", "AgePlace": "71", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "864", "Name": "Jamie Zimmer", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:15:10", 
+		  "Pace": "13:15", "Age": "24", "AgePlace": "53", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "865", "Name": "Robert West", "Gender": "M",
+		  "Hometown": "Cincinnati", "FinishTime": "2:15:33", 
+		  "Pace": "13:17", "Age": "63", "AgePlace": "17", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "866", "Name": "Jenny Tharp", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:12:02", 
+		  "Pace": "12:57", "Age": "39", "AgePlace": "89", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "867", "Name": "Caroline Hintz", "Gender": "F",
+		  "Hometown": "Brentwood", "FinishTime": "2:16:12", 
+		  "Pace": "13:21", "Age": "51", "AgePlace": "28", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "868", "Name": "Kirk Hintz", "Gender": "M",
+		  "Hometown": "Brentwood", "FinishTime": "2:16:14", 
+		  "Pace": "13:21", "Age": "51", "AgePlace": "40", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "869", "Name": "Midge King", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:13:35", 
+		  "Pace": "13:06", "Age": "54", "AgePlace": "29", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "870", "Name": "Kim Butler", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:13:52", 
+		  "Pace": "13:07", "Age": "30", "AgePlace": "66", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "871", "Name": "Sherri Anderson", "Gender": "F",
+		  "Hometown": "Corinth", "FinishTime": "2:11:54", 
+		  "Pace": "12:56", "Age": "48", "AgePlace": "43", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "872", "Name": "Crystal Detzel", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:11:50", 
+		  "Pace": "12:56", "Age": "37", "AgePlace": "90", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "873", "Name": "Shannon Mccarthy", "Gender": "F",
+		  "Hometown": "White House", "FinishTime": "2:13:48", 
+		  "Pace": "13:07", "Age": "41", "AgePlace": "66", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "874", "Name": "Jared Dieselberg", "Gender": "M",
+		  "Hometown": "Sunman", "FinishTime": "2:13:49", 
+		  "Pace": "13:07", "Age": "45", "AgePlace": "67", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "875", "Name": "Sandi Curd", "Gender": "F",
+		  "Hometown": "Corbin", "FinishTime": "2:16:20", 
+		  "Pace": "13:22", "Age": "53", "AgePlace": "30", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "876", "Name": "Melissa Mathies", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:15:44", 
+		  "Pace": "13:18", "Age": "38", "AgePlace": "91", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "877", "Name": "Rhonda Knight", "Gender": "F",
+		  "Hometown": "Corbin", "FinishTime": "2:16:00", 
+		  "Pace": "13:20", "Age": "56", "AgePlace": "21", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "878", "Name": "Kristi Davis", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:14:18", 
+		  "Pace": "13:10", "Age": "46", "AgePlace": "44", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "879", "Name": "Sharon Hutchins", "Gender": "F",
+		  "Hometown": "Hodgenville", "FinishTime": "2:14:20", 
+		  "Pace": "13:10", "Age": "46", "AgePlace": "45", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "880", "Name": "Michelle Friend", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "2:17:43", 
+		  "Pace": "13:30", "Age": "40", "AgePlace": "67", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "881", "Name": "Kathryn Hunt", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:17:34", 
+		  "Pace": "13:29", "Age": "58", "AgePlace": "22", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "882", "Name": "Emily McManus", "Gender": "F",
+		  "Hometown": "Lake Worth", "FinishTime": "2:20:28", 
+		  "Pace": "13:46", "Age": "29", "AgePlace": "72", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "883", "Name": "Julia Gibson", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "2:15:22", 
+		  "Pace": "13:16", "Age": "36", "AgePlace": "92", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "884", "Name": "Jennifer Brey", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:15:22", 
+		  "Pace": "13:16", "Age": "38", "AgePlace": "93", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "885", "Name": "Angela Schmitt", "Gender": "F",
+		  "Hometown": "Crestwood", "FinishTime": "2:15:17", 
+		  "Pace": "13:16", "Age": "38", "AgePlace": "94", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "886", "Name": "Teresa Lee", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:13:13", 
+		  "Pace": "13:04", "Age": "29", "AgePlace": "73", 
+		  "AgeCategory": "F 25-29"
+		},
+		{ "Place": "887", "Name": "Delores Lane", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:16:06", 
+		  "Pace": "13:21", "Age": "55", "AgePlace": "23", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "888", "Name": "Barb Mobley", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:15:26", 
+		  "Pace": "13:17", "Age": "52", "AgePlace": "31", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "889", "Name": "Zach Brooks", "Gender": "M",
+		  "Hometown": "Williamsburg", "FinishTime": "2:23:27", 
+		  "Pace": "14:04", "Age": "19", "AgePlace": "5", 
+		  "AgeCategory": "M 14-19"
+		},
+		{ "Place": "890", "Name": "Katherine Tibbitts", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:07:55", 
+		  "Pace": "12:32", "Age": "33", "AgePlace": "67", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "891", "Name": "Christina Baldridge", "Gender": "F",
+		  "Hometown": "Raceland", "FinishTime": "2:07:53", 
+		  "Pace": "12:32", "Age": "24", "AgePlace": "54", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "892", "Name": "Susan Schneider", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:19:24", 
+		  "Pace": "13:40", "Age": "60", "AgePlace": "7", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "893", "Name": "Wendi Hensley", "Gender": "F",
+		  "Hometown": "Belfry", "FinishTime": "2:16:45", 
+		  "Pace": "13:24", "Age": "37", "AgePlace": "95", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "894", "Name": "Bridget Burianek", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:15:23", 
+		  "Pace": "13:16", "Age": "49", "AgePlace": "46", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "895", "Name": "Gay Simmons", "Gender": "F",
+		  "Hometown": "Campbellsville", "FinishTime": "2:19:42", 
+		  "Pace": "13:42", "Age": "52", "AgePlace": "32", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "896", "Name": "Anna Burianek", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:15:38", 
+		  "Pace": "13:18", "Age": "17", "AgePlace": "9", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "897", "Name": "Susan Wise", "Gender": "F",
+		  "Hometown": "Campbellsville", "FinishTime": "2:19:41", 
+		  "Pace": "13:42", "Age": "49", "AgePlace": "47", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "898", "Name": "Staey Becker", "Gender": "F",
+		  "Hometown": "La Grange", "FinishTime": "2:16:48", 
+		  "Pace": "13:25", "Age": "42", "AgePlace": "68", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "899", "Name": "Justin DeCamp", "Gender": "M",
+		  "Hometown": "Chicago", "FinishTime": "2:13:34", 
+		  "Pace": "13:06", "Age": "26", "AgePlace": "48", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "900", "Name": "Kevin Webb", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "2:07:21", 
+		  "Pace": "12:29", "Age": "27", "AgePlace": "49", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "901", "Name": "CURTIS BENTLEY", "Gender": "M",
+		  "Hometown": "Taylorsville", "FinishTime": "2:18:43", 
+		  "Pace": "13:36", "Age": "57", "AgePlace": "31", 
+		  "AgeCategory": "M 55-59"
+		},
+		{ "Place": "902", "Name": "Anonymous Participant", "Gender": "F",
+		  "Hometown": "Atlanta", "FinishTime": "2:18:45", 
+		  "Pace": "13:36", "Age": "47", "AgePlace": "48", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "903", "Name": "Jim Beck", "Gender": "M",
+		  "Hometown": "Richmond", "FinishTime": "2:16:35", 
+		  "Pace": "13:23", "Age": "44", "AgePlace": "67", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "904", "Name": "Lindsey Tara Wright", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:19:46", 
+		  "Pace": "13:42", "Age": "31", "AgePlace": "68", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "905", "Name": "Aaron Wilson", "Gender": "M",
+		  "Hometown": "Georgetown", "FinishTime": "2:15:09", 
+		  "Pace": "13:15", "Age": "35", "AgePlace": "65", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "906", "Name": "Kristen Wilson", "Gender": "F",
+		  "Hometown": "Georgetown", "FinishTime": "2:15:18", 
+		  "Pace": "13:16", "Age": "40", "AgePlace": "69", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "907", "Name": "David Burianek", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "2:18:17", 
+		  "Pace": "13:33", "Age": "52", "AgePlace": "41", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "908", "Name": "Heather Perkins", "Gender": "F",
+		  "Hometown": "Morehead", "FinishTime": "2:17:08", 
+		  "Pace": "13:27", "Age": "42", "AgePlace": "70", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "909", "Name": "De Curtis Grooms", "Gender": "M",
+		  "Hometown": "Louisville", "FinishTime": "2:20:35", 
+		  "Pace": "13:47", "Age": "46", "AgePlace": "68", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "910", "Name": "Karen Gedrose", "Gender": "F",
+		  "Hometown": "Springfield", "FinishTime": "2:20:22", 
+		  "Pace": "13:46", "Age": "54", "AgePlace": "33", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "911", "Name": "John Crisologo", "Gender": "M",
+		  "Hometown": "Rockholds", "FinishTime": "2:15:52", 
+		  "Pace": "13:19", "Age": "50", "AgePlace": "42", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "912", "Name": "Monica Martin", "Gender": "F",
+		  "Hometown": "Brodhead", "FinishTime": "2:20:52", 
+		  "Pace": "13:49", "Age": "43", "AgePlace": "71", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "913", "Name": "Susanne Dawson", "Gender": "F",
+		  "Hometown": "Knoxville", "FinishTime": "2:22:03", 
+		  "Pace": "13:56", "Age": "42", "AgePlace": "72", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "914", "Name": "Ryan Sharp", "Gender": "F",
+		  "Hometown": "Louisville", "FinishTime": "2:19:04", 
+		  "Pace": "13:38", "Age": "37", "AgePlace": "96", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "915", "Name": "Michel Yang", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:19:05", 
+		  "Pace": "13:38", "Age": "33", "AgePlace": "69", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "916", "Name": "Laura Braun", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:23:38", 
+		  "Pace": "14:05", "Age": "37", "AgePlace": "97", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "917", "Name": "Tara Holmes", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:19:59", 
+		  "Pace": "13:43", "Age": "40", "AgePlace": "73", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "918", "Name": "Patricia Herald", "Gender": "F",
+		  "Hometown": "Jackson", "FinishTime": "2:20:16", 
+		  "Pace": "13:45", "Age": "58", "AgePlace": "24", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "919", "Name": "Ann Carter", "Gender": "F",
+		  "Hometown": "Campton", "FinishTime": "2:20:13", 
+		  "Pace": "13:45", "Age": "52", "AgePlace": "34", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "920", "Name": "D.W. Holmes", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:19:43", 
+		  "Pace": "13:42", "Age": "44", "AgePlace": "68", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "921", "Name": "Michelle Smith", "Gender": "F",
+		  "Hometown": "Boonville", "FinishTime": "2:20:45", 
+		  "Pace": "13:48", "Age": "46", "AgePlace": "49", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "922", "Name": "Bobbie Perkins", "Gender": "F",
+		  "Hometown": "Harrodsburg", "FinishTime": "2:22:17", 
+		  "Pace": "13:57", "Age": "40", "AgePlace": "74", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "923", "Name": "Ruby Cline-Eaton", "Gender": "F",
+		  "Hometown": "Danville", "FinishTime": "2:22:23", 
+		  "Pace": "13:58", "Age": "61", "AgePlace": "8", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "924", "Name": "Tim Godbey", "Gender": "M",
+		  "Hometown": "Stanford", "FinishTime": "2:22:24", 
+		  "Pace": "13:58", "Age": "43", "AgePlace": "69", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "925", "Name": "Jason Todd", "Gender": "M",
+		  "Hometown": "Stanford", "FinishTime": "2:22:18", 
+		  "Pace": "13:57", "Age": "46", "AgePlace": "69", 
+		  "AgeCategory": "M 45-49"
+		},
+		{ "Place": "926", "Name": "Cody Davidson", "Gender": "M",
+		  "Hometown": "Versailles", "FinishTime": "2:22:24", 
+		  "Pace": "13:58", "Age": "37", "AgePlace": "66", 
+		  "AgeCategory": "M 35-39"
+		},
+		{ "Place": "927", "Name": "Angela Todd", "Gender": "F",
+		  "Hometown": "Stanford", "FinishTime": "2:22:35", 
+		  "Pace": "13:59", "Age": "45", "AgePlace": "50", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "928", "Name": "Brittany Koenig", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:20:57", 
+		  "Pace": "13:49", "Age": "40", "AgePlace": "75", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "929", "Name": "Tracy Cavill", "Gender": "F",
+		  "Hometown": "Versailles", "FinishTime": "2:19:45", 
+		  "Pace": "13:42", "Age": "41", "AgePlace": "76", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "930", "Name": "Marietta Brooks", "Gender": "F",
+		  "Hometown": "Williamsburg", "FinishTime": "2:23:26", 
+		  "Pace": "14:04", "Age": "44", "AgePlace": "77", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "931", "Name": "Penne Huckleberry", "Gender": "F",
+		  "Hometown": "Grove City", "FinishTime": "2:26:48", 
+		  "Pace": "14:24", "Age": "53", "AgePlace": "35", 
+		  "AgeCategory": "F 50-54"
+		},
+		{ "Place": "932", "Name": "Stephanie Pound", "Gender": "F",
+		  "Hometown": "Westport", "FinishTime": "", 
+		  "Pace": "", "Age": "46", "AgePlace": "51", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "933", "Name": "Suzanne Edler", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:23:56", 
+		  "Pace": "14:07", "Age": "68", "AgePlace": "5", 
+		  "AgeCategory": "F 65-69"
+		},
+		{ "Place": "934", "Name": "Bob Schindler", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:19:24", 
+		  "Pace": "13:40", "Age": "65", "AgePlace": "14", 
+		  "AgeCategory": "M 65-69"
+		},
+		{ "Place": "935", "Name": "Rhonda Luckett", "Gender": "F",
+		  "Hometown": "london", "FinishTime": "2:28:05", 
+		  "Pace": "14:31", "Age": "39", "AgePlace": "98", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "936", "Name": "Michelle Tucker", "Gender": "F",
+		  "Hometown": "Berea", "FinishTime": "2:21:10", 
+		  "Pace": "13:50", "Age": "42", "AgePlace": "78", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "937", "Name": "Heather Johnson", "Gender": "F",
+		  "Hometown": "Campton", "FinishTime": "2:22:58", 
+		  "Pace": "14:01", "Age": "38", "AgePlace": "99", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "938", "Name": "Sarah McGrath", "Gender": "F",
+		  "Hometown": "San Diego", "FinishTime": "2:23:34", 
+		  "Pace": "14:05", "Age": "38", "AgePlace": "100", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "939", "Name": "Robert Hopper", "Gender": "M",
+		  "Hometown": "Waukee", "FinishTime": "2:24:27", 
+		  "Pace": "14:10", "Age": "60", "AgePlace": "18", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "940", "Name": "Rachel Wilson", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:24:34", 
+		  "Pace": "14:10", "Age": "32", "AgePlace": "70", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "941", "Name": "Denise Smith", "Gender": "F",
+		  "Hometown": "Keene", "FinishTime": "2:29:27", 
+		  "Pace": "14:39", "Age": "42", "AgePlace": "79", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "942", "Name": "Brandi McFadden", "Gender": "F",
+		  "Hometown": "London", "FinishTime": "2:25:09", 
+		  "Pace": "14:14", "Age": "32", "AgePlace": "71", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "943", "Name": "Tommy Lewis", "Gender": "M",
+		  "Hometown": "Rineyville", "FinishTime": "2:27:17", 
+		  "Pace": "14:26", "Age": "54", "AgePlace": "43", 
+		  "AgeCategory": "M 50-54"
+		},
+		{ "Place": "944", "Name": "Kendra Samples", "Gender": "F",
+		  "Hometown": "Manchester", "FinishTime": "2:26:50", 
+		  "Pace": "14:24", "Age": "43", "AgePlace": "80", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "945", "Name": "Joan Houle", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:28:59", 
+		  "Pace": "14:36", "Age": "56", "AgePlace": "25", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "946", "Name": "Michael McColl", "Gender": "M",
+		  "Hometown": "", "FinishTime": "2:26:23", 
+		  "Pace": "14:21", "Age": "41", "AgePlace": "70", 
+		  "AgeCategory": "M 40-44"
+		},
+		{ "Place": "947", "Name": "Sarah Stamper", "Gender": "F",
+		  "Hometown": "Winchester", "FinishTime": "2:37:11", 
+		  "Pace": "15:25", "Age": "19", "AgePlace": "10", 
+		  "AgeCategory": "F 14-19"
+		},
+		{ "Place": "948", "Name": "Mandi Broderick", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:19:46", 
+		  "Pace": "13:42", "Age": "23", "AgePlace": "55", 
+		  "AgeCategory": "F 20-24"
+		},
+		{ "Place": "949", "Name": "Dale Cleaveland", "Gender": "M",
+		  "Hometown": "Easley", "FinishTime": "2:31:01", 
+		  "Pace": "14:48", "Age": "62", "AgePlace": "19", 
+		  "AgeCategory": "M 60-64"
+		},
+		{ "Place": "950", "Name": "Terry Cleaveland", "Gender": "F",
+		  "Hometown": "Easley", "FinishTime": "2:30:52", 
+		  "Pace": "14:47", "Age": "61", "AgePlace": "9", 
+		  "AgeCategory": "F 60-64"
+		},
+		{ "Place": "951", "Name": "Joanne Turner", "Gender": "F",
+		  "Hometown": "Easley", "FinishTime": "2:30:53", 
+		  "Pace": "14:48", "Age": "57", "AgePlace": "26", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "952", "Name": "Stephanie Henry", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:30:20", 
+		  "Pace": "14:44", "Age": "36", "AgePlace": "101", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "953", "Name": "Karen Simmons", "Gender": "F",
+		  "Hometown": "Utica", "FinishTime": "2:34:42", 
+		  "Pace": "15:10", "Age": "55", "AgePlace": "27", 
+		  "AgeCategory": "F 55-59"
+		},
+		{ "Place": "954", "Name": "Heather Dismuke", "Gender": "F",
+		  "Hometown": "Nicholasville", "FinishTime": "2:35:29", 
+		  "Pace": "15:15", "Age": "43", "AgePlace": "81", 
+		  "AgeCategory": "F 40-44"
+		},
+		{ "Place": "955", "Name": "Austin Moman", "Gender": "M",
+		  "Hometown": "Lexington", "FinishTime": "2:36:57", 
+		  "Pace": "15:23", "Age": "26", "AgePlace": "50", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "956", "Name": "Beth Walker", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:36:49", 
+		  "Pace": "15:22", "Age": "35", "AgePlace": "102", 
+		  "AgeCategory": "F 35-39"
+		},
+		{ "Place": "957", "Name": "Brian Riggs", "Gender": "M",
+		  "Hometown": "Lawrenceburg", "FinishTime": "2:19:15", 
+		  "Pace": "13:39", "Age": "28", "AgePlace": "51", 
+		  "AgeCategory": "M 25-29"
+		},
+		{ "Place": "958", "Name": "Noah Cocanougher", "Gender": "M",
+		  "Hometown": "Harrodsburg", "FinishTime": "2:42:32", 
+		  "Pace": "15:56", "Age": "14", "AgePlace": "6", 
+		  "AgeCategory": "M 14-19"
+		},
+		{ "Place": "959", "Name": "Terri Marksbury", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "", 
+		  "Pace": "", "Age": "49", "AgePlace": "52", 
+		  "AgeCategory": "F 45-49"
+		},
+		{ "Place": "960", "Name": "Kristen Hardin", "Gender": "F",
+		  "Hometown": "East Bernstadt", "FinishTime": "", 
+		  "Pace": "", "Age": "34", "AgePlace": "72", 
+		  "AgeCategory": "F 30-34"
+		},
+		{ "Place": "961", "Name": "Steve Risner", "Gender": "F",
+		  "Hometown": "Lexington", "FinishTime": "2:56:00", 
+		  "Pace": "17:15", "Age": "57", "AgePlace": "3", 
+		  "AgeCategory": "F 70-74"
+		},
+		{ "Place": "962", "Name": "Bruce Kelley", "Gender": "M",
+		  "Hometown": "Mc Dermott", "FinishTime": "2:57:15", 
+		  "Pace": "17:23", "Age": "70", "AgePlace": "3", 
+		  "AgeCategory": "M 70-74"
+		},
+		{ "Place": "963", "Name": "Stephanie Chamberlain", "Gender": "F",
+		  "Hometown": "Mt. Sterling", "FinishTime": "2:59:22", 
+		  "Pace": "17:35", "Age": "39", "AgePlace": "103", 
+		  "AgeCategory": "F 35-39"
+		}
+	]
+}
+
+

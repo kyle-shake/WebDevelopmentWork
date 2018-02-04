@@ -1,0 +1,26 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{ title }} - UK Stat Search</title>
+    {% else %}
+    <title>Welcome to UK Stat Search</title>
+    {% endif %}
+  </head>
+  <body>
+    <div>UK Stat Search: <a href="/">Home</a></div>
+    <div>UK Stat Search: <a href="/search">Search</a></div>
+    <div>UK Stats <a href="/Gobbler">2016 Gobbler Run</a></div>
+    <div>UK Stats <a href="/Ironhorse">2016 Ironhorse Race</a></div>
+    <hr>
+	{% with messages = get_flashed_messages() %}
+		{% if messages %}
+			<ul>
+			{% for message in messages %}
+				<li>{{ message }} </li>
+			{% endfor %}
+			</ul>
+		{% endif %}
+	{% endwith %}
+    {% block content %}{% endblock %}
+  </body>
+</html>

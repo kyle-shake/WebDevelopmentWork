@@ -1,0 +1,39 @@
+from flask import render_template, flash, redirect
+import simplejson as json
+
+from myp5_4 import app
+from .myForms import AForm
+from .mySearch import mySearch
+
+@app.route('/')
+def index():
+    return render_template('index.html',title='MyP5_4')
+
+@app.route('/search', methods=['GET', 'POST'])
+def search():
+    form = AForm()
+    if form.validate_on_submit():
+        aPage = mySearch(form.A.data, form.B.data, form.C.data);
+        flash(aPage)
+        return redirect('/')
+    return render_template('search.html',title='Search', form=form)
+#    return "In, search"
+
+@app.route('/jsonex', methods=['GET', 'POST'])
+def notused():
+    # Note!!!!  You should check/use try to check for errors, etc!!!!
+    jsonFile = open('myp5_4/static/Races.json')
+    raceData = jsonFile.read()
+    # You should check for JSON errors....maybe try/except ?
+    raceJson = json.loads(raceData)
+    theRaces = raceJson['races']
+
+    output = "The Races:<br>"
+    theRace = ""
+    for theName, theFile in theRaces.items():
+        print "Here, "+ theName+" " + theFile + " okay?"
+        theRace = theName + " ---- " + theFile + "<br>"
+        output += theRace
+
+    return output
+

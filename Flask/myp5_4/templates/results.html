@@ -1,0 +1,40 @@
+<!-- extend from base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Search Results:</h1>
+
+<br> File: {{param[0]}} </br>
+<br> Searching for {{param[2]}} in {{param[1]}} </br>
+<br> Sorted by {{param[3]}} {{param[4]}}</br>
+
+<br>
+<table align="left", border=1>
+  <tr>
+    <th>Place</th>
+    <th>Name</th>
+    <th>Gender</th>
+    <th>Hometown</th>
+    <th>Finish Time</th>
+    <th>Pace</th>
+    <th>Age</th>
+    <th>Age Place</th>
+    <th>Age Category</th>
+  </tr>
+  {% for i in result %} 
+  <tr>
+    <td>{{i['Place']}}</td>
+    <td>{{i['Name']}}</td>
+    <td>{{i['Gender']}}</td>
+    <td>{{i['Hometown']}}</td>
+    <td>{{i['FinishTime']}}</td>
+    <td>{{i['Pace']}}</td>
+    <td>{{i['Age']}}</td>
+    <td>{{i['AgePlace']}}</td>
+    <td>{{i['AgeCategory']}}</td>   
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

@@ -1,0 +1,146 @@
+Project #2 - Due Wednesday-February 22, 23:59:59pm
+
+Use the CS Portal and submit a ZIP file as "Project #2".
+---------------------------------------------------------
+
+Note: You shall follow Dr. Finkel's checklist for good programming:
+http://www.cs.uky.edu/~raphael/checklist.html
+
+You shall put your name(s) as comments in your project's code.
+
+What you are required to turn in your ZIP archive - note, do 
+NOT create an additional directory in the ZIP archive - just 
+these 3 files!
+
+1. A file named "mehtzee.html".
+2. A file named "project2.pdf" or "project2.txt"  [see below]
+---------------------------------------------------------
+Your program shall work on www.cs.uky.edu and with Chrome 
+and/or Firefox.
+
+You shall write a program to play a silly dice game called 
+"Meh-tzee".
+- Your program shall contain HTML and Javascript (and CSS).
+- Your program shall use the provided template code 
+	(mehtzee-starting.html).
+- Your program shall retain the structure (tables, field IDs, 
+	etc.) of the provided code.  You can adjust borders, 
+	colors, text attributes of the HTML elements if you want.
+
+Start:
+- Your program shall (upon first loading):
+	- reset all values 
+	- enable the NewGame button clickable as "New Game ?"
+	- ask the player for their name with a prompt()
+	- update the thePlayer table header with their name
+	  (make sure if they input longer than 20 characters to
+	   only use the first 20 characters)
+	- determine who goes first - your options are:
+	  (1) Computer always goes first
+      (2) Player always goes first
+	  (3) your program randomly decides.
+
+Gameplay:
+
+- The idea is to score as many points as possible.  
+- (6) sided dice are rolled up to (4) times each turn.  
+- After each roll any number of dice can be "held" - any 
+  dice not held will be re-rolled at the next dice roll.
+- Dice can be "unheld" after a roll (ie, newer dice changes 
+  the mind of the roller, switching to a different strategy).  
+  Regardless, the roll count increments each roll no matter 
+  which dice are held or unheld.
+- To score, only the dice with the number of the entry 
+  selected are added up.  For instance, if after 4 rolls you 
+  have (4) dice that show a "6", and you choose "Sixes" to 
+  put the score, the score recorded is "24" (4 x 6), and does 
+  not contain the other 2 dice.
+- The only exception is "Meh-tzee".  If during the rolling, 
+  all dice have the same roll (ie, all 6 dice have a 6 showing), 
+  the "Meh-tzee" score slot can be chosen - its value is 
+  fixed at 50 points.  
+- A score slot can be selected and receive a "0" score.  If 
+  "Ones" is selected after 4 rolls and there are no "1" dice, 
+  the score would be 0 (zero).
+- There is a Bonus score slot.  It is not selectable.  It is 
+  filled in automatically if the player scores a total of 84 
+  in the "Ones" through "Sixes" scores slots.  The bonus is 35 
+  if earned.
+
+- Your program shall allow the user to play the games against 
+  your program.  Your program will simulate the computer's play 
+  in a very basic (and very poor) manner as follows:
+
+- The computer, on its turn, will attempt to fill in the score 
+  slots in the following order:  Ones, Twos, Threes, Fours, 
+  Fives, Sixes, and the Meh-tzee.  (I told you it was a poor 
+  player!).  Even if in the first 6 attempts the computer 
+  manages to roll a "Meh-tzee", it will NOT put it in that 
+  slot!  Only on the 7th turn will it attempt to fill that 
+  slot.  The slots will be filled in order by the computer!
+
+- The player can fill any slot not already filled, in any 
+  order.  Each slot can be filled only once, of course.
+
+- After each turn for both player and computer, their 
+  respective Total slot shall be updated.
+
+- After each scoring slot is used, the background color of 
+  that slot shall be turned green and made unclickable.
+
+- After each turn the scores in Ones-Sixes is totaled, and 
+  if the total is 84 or more, then the Bonus value shall be 
+  set to 35 and displayed (and turn it's background color green).
+
+- If (for whatever reason!) the player ends their turn early 
+  (by selecting a score slot), then your program shall score 
+  appropriately and move on to the next turn.
+
+- If the player (or computer) holds all 6 dice and hits roll, 
+  your program shall produce an alert window to acknowledge it.
+
+- After each Roll, the Roll button is updated to include the 
+  roll number: Roll(1), Roll(2), Roll(3).
+
+- After the 4th roll, you shall change the Roll button to 
+  Roll(4) and then do one of the following:  
+	- make the Roll(4) button grey/gray and unclickable, 
+	- or pop up an alert window announcing the player has no 
+	  more rolls left in this turn and to select a score slot.
+
+- After the computer finishes it's turn, the Roll button is 
+  either un-grayed and or made clickable and changed to "Roll".
+
+- Each time Roll is performed, a random number between 1-6, 
+  inclusive, is generated for each die.  The correct image 
+  (provided) for each roll value will be displayed.
+
+- After each of the first 3 rolls, the computer/user can 
+  select a die to hold (or unhold) for the following roll.  
+  Your program shall change the image of each to include the 
+  appropriate die value with the green background.
+
+- After both computer and player roll 7 times, your program shall:
+	- determine who is the winner (ties always go to the player).
+	- update the appropriate "Wins", "%win", and "Total Games Played".
+	- change the NewGame button back to "New Game ?"
+
+- You shall use the gameMessage element to print messages 
+  to the player.  "Game over", "MAX rolls reached", etc.
+
+- You shall compartmentalize your code and write functions/methods
+  where appropriate!!!
+
+- 
+
+---------------------------------------------------------------------
+Javascript Functions/Methods to use:
+
+console.log()
+Math.random(), Math.floor(), Math.ceil()
+MORE TO ADD LATER
+
+NOTES:
+	Passing a function vs. passing a function's return value;
+	onclick example
+MORE TO ADD LATER

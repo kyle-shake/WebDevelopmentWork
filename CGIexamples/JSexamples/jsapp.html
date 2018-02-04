@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<!--
+File:jsapp.html
+Author: Kyle Shake
+Date Created: 2/2/2017
+Last Modified: 2/2/2017
+Purpose: Provide implementation for a simple JavaScript application
+
+--!>
+<style type="text/css">
+    .flag {color: red}
+</style>
+
+<title> Converting Units </title>
+
+<script type="text/javascript">
+    function validate() {
+        var missingData = false;
+        var correctSrcUnits = false;
+        var correctNewUnits = false;
+        var Units = "";
+        var validUnits = ["kilometers", "meters", "miles", "feet", "celsius",
+                "fahrenheit", "kelvin", "days", "hours", "minutes", "seconds"];
+        
+        for (i = 0; i < validUntis.length; i++){
+            Units = Units + validUnits[i];
+            if (i < validUnits.length-1){
+                Units = Units + ", ";
+            }
+        }
+
+        clearMessages();
+
+        if(get("num").value.length == 0){
+            get("numFlag").innerHTML = "*";
+            missingData = true;
+        }
+
+        if(get("src").value.length == 0){
+            get("srcFlag").innerHTML = "*";
+            missingData = true;
+        }else {
+            for(i = 0; i < validUnits.length; i++){
+                if (get("src").value == validUnits[i]){
+                    correctSrcUnits = true;
+                }
+            }
+        }
+
+        if(get("new").value.length == 0){
+            get("newFlag").innerHTML = "*";
+            missingData = true;
+        }else {
+            for(i = 0; i < validUnits.length; i++){
+                if (get("new").value == validUnits[i]){
+                    correctSrcUnits = true;
+                }
+            }
+        }
+
+        if(correctSrcUnits==false){
+            get("srcFlag").innerHTML = "*";
+            get("message").innerHTML = "* Invalid unit";
+        }
+        if(correctNewUnits==false){
+            get("NewFlag").innerHTML = "*";
+            get("message").innerHTML = "* Invalid unit";
+        }
+
+
+
+
+

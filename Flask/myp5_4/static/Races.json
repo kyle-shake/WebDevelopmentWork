@@ -1,0 +1,20 @@
+{
+  "races": {
+        "2016_Gobbler_Half": "2016_Gobbler.json", 
+        "2016_Ironhorse_Half": "2016_Ironhorse.json"
+        },
+  "match": {
+  		"M0": "Nothing",
+  		"M1": "Name",
+		"M2": "Gender",
+		"M3": "Hometown",
+		"M4": "AgeCategory",
+		"M5": "Age"
+  		},
+  "stats": {
+        "S0": "FinishTime",
+        "S1": "Pace",
+        "S3": "AgePlace",
+        "S4": "Place"
+        }
+}

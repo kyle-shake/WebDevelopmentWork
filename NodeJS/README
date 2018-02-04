@@ -1,0 +1,28 @@
+
+----------------------------------
+README: NodeJS Execute Server
+
+Author: Kyle Shake
+Date: 3/10/17
+----------------------------------
+
+Files included in proj3.zip:
+	--proj3node.js
+	--README
+
+
+proj3node.js
+	-- a javascript file that sets up a Web Client server using node.js
+	on one of the cs.uky.edu Apache servers
+
+	-- It will service HTML files that are contained in a MYHTML directory
+	-- It will execute CGI files that are contained in a MYCGI directory
+	-- It will execute PHP files that are contained in a MYHTML directory
+
+	--All files requested by user must be in the proper syntax: /basename.filetype
+		++ The basename must only contain alphanumeric characters and underscores
+		++ File types are limited to the types above: HTML, CGI, and PHP
+
+
+----------------------------------
+
